@@ -39,7 +39,7 @@ tag = "tags"
 
   [[params.slogan_columns]]
     title = "Public Health"
-    text = "- Epidemiology  \n - Biostatistics"
+#    text = "- Epidemiology  \n - Biostatistics"
 #    link = "/approach"
 #    link_text = "Read more"
     weight = 3

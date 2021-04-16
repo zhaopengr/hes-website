@@ -2,7 +2,7 @@
 abstract = ""
 abstract_short = "Short version of abstract."
 date = "2018-05-01"
-image = "book-xuershixizhi.png"
+image = "publication/book-2018-zhao.png"
 image_preview = ""
 math = false
 publication = "研究出版社，北京"
