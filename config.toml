@@ -1,0 +1,150 @@
+publishdir = "docs"
+static = "/static"
+builddrafts = false
+# Replace this with your website URL
+baseurl = "https://hes.pzhao.org/"
+canonifyurls = true
+theme = "hugo-academic-group"
+title = "HES-XJTLU"
+math = true
+copyright = "&copy; Department of Health and Environmental Sciences, XJTLU"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+
+[params]
+  description = "Website of Department of Health and Environmental Sciences, XJTLU"
+  author = "Peng Zhao"
+  email = "someone@xjtlu.edu.cn"
+  address = "Chongwenlu 8, Suzhou Industrial Park, 215123 Suzhou, Jiangsu Province, China"
+
+  slogan = "HES"
+  slogan_text = "Health and Environmental Sciences"
+
+  [[params.slogan_columns]]
+    title = "Environmental Pollution"
+    text = "- Soil nutrients and pollution – interactions & bioavailability  \n- Air pollution – aerosol processes – air quality – human health  \n- Soils to plants – nutrition/heavy metals – human health  \n- Pollutants across interfaces – soil/water/air/biota/humans"
+#    link = "/mission"
+#    link_text = "Read more"
+    weight = 1
+
+  [[params.slogan_columns]]
+    title = "ECOLOGY"
+    text =  "- Biodiversity – mechanisms - human influences  \n- Landscape changes – urbanization – rural farming  \n- Community ecology – species interactions – trophic dynamics"
+#    link = "/about"
+#    link_text = "Meet the team"
+    weight = 2
+
+  [[params.slogan_columns]]
+    title = "Public Health"
+    text = "- Epidemiology  \n - Biostatistics"
+#    link = "/approach"
+#    link_text = "Read more"
+    weight = 3
+
+  # Selected Publications section.
+  [params.publications_selected]
+    detailed_list = true
+    title = "Selected Publications"
+    subtitle = ""
+
+  # Publications section.
+  # Section will only be displayed if there are publications in `content/publication/`.
+  [params.publications]
+    count = 5
+    detailed_list = false
+    title = "Publications"
+    subtitle = ""
+    str_all = "More"
+
+  # Posts section.
+  # Section will only be displayed if there are posts in `content/post/`.
+  [params.posts]
+    count = 6
+    title = "News"
+    subtitle = ""
+    str_all = "More news"
+    str_read_more = "Read more"
+
+  # Projects section.
+  # Section will only be displayed if there are projects in `content/project/`.
+  [params.projects]
+    title = "Research"
+    subtitle = ""
+    count = 7
+    str_all = "More Research"
+  
+  # Vacancies section
+  # Section will only be displayed if there are valid vacancies in `content/vacancy`
+  [params.vacancies]
+    title = "Vacancies"
+    subtitle = ""
+    count = 3
+    str_all = "More Vacancies"
+
+  # Contact section.
+  [params.contact]
+    enable = true
+    title = "Contact"
+    subtitle = ""
+    autolink = false  # Automatically link email and phone?
+
+  # Navigation Links
+  #   The weight parameter defines the order that the links will appear in.
+
+  [[menu.main]]
+      name = "Home"
+      url = "/#top"
+      weight = 1
+
+#  [[menu.main]]
+#      name = "About"
+#      url = "/about"
+#      weight = 10
+
+  [[menu.main]]
+      name = "Publications"
+      url = "/#publications"
+      weight = 3
+
+    [[menu.main]]
+      name = "Research"
+      url = "/#projects"
+      weight = 2
+
+  [[menu.main]]
+      name = "Staff"
+      url = "/#members"
+      weight = 4
+
+  [[menu.main]]
+      name = "Students"
+      url = "/post/students"
+      weight = 4
+      
+  [[menu.main]]
+      name = "Alumni"
+      url = "/post/alumni"
+      weight = 4
+
+  [[menu.main]]
+      name = "News"
+      url = "/#posts"
+      weight = 5
+
+  [[menu.main]]
+      name = "Lab"
+      url = "https://heslab.pzhao.org/"
+      weight = 6
+	  
+  [[menu.main]]
+      name = "Forum"
+      url = "https://github.com/pzhaonet/zpgroup/issues"
+      weight = 7
+
+  [[menu.main]]
+      name = "Contact"
+      url = "/#contact"
+      weight = 9
