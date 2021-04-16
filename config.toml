@@ -141,10 +141,15 @@ tag = "tags"
 	  
   [[menu.main]]
       name = "Forum"
-      url = "https://github.com/pzhaonet/zpgroup/issues"
+      url = "https://github.com/pzhaonet/hes-website/issues"
       weight = 7
 
   [[menu.main]]
       name = "Contact"
       url = "/#contact"
       weight = 9
+      
+  [[menu.main]]
+      name = "Edit"
+      url = "https://github.com/pzhaonet/hes-website/tree/main/content"
+      weight = 10
