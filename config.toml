@@ -69,7 +69,7 @@ tag = "tags"
   # Publications section.
   # Section will only be displayed if there are publications in `content/publication/`.
   [params.publications]
-    count = 5
+    count = 6
     detailed_list = false
     title = "Publications"
     subtitle = ""
@@ -135,30 +135,30 @@ tag = "tags"
       url = "/#members"
       weight = 50
 
-  [[menu.main]]
-      name = "Students"
-      url = "/post/students"
-      weight = 60
+#  [[menu.main]]
+#      name = "Students"
+#      url = "/post/students"
+#      weight = 60
       
-  [[menu.main]]
-      name = "Alumni"
-      url = "/post/alumni"
-      weight = 70
+#  [[menu.main]]
+#      name = "Alumni"
+#      url = "/post/alumni"
+#      weight = 70
 
   [[menu.main]]
       name = "News"
       url = "/#posts"
       weight = 80
 
-  [[menu.main]]
-      name = "Lab"
-      url = "https://heslab.pzhao.org/"
-      weight = 90
+#  [[menu.main]]
+#      name = "Lab"
+#      url = "https://heslab.pzhao.org/"
+#      weight = 90
 
-  [[menu.main]]
-      name = "Contact"
-      url = "/#contact"
-      weight = 110
+#  [[menu.main]]
+#      name = "Contact"
+#      url = "/#contact"
+#      weight = 110
       
   [[menu.main]]
       name = "About"
