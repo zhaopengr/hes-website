@@ -7,11 +7,11 @@ interests = [
     "Micrometeorology",
     "Environmental Science"
   ]
-name = "NUNEZ, Pagani, Emilio"
+name = "NUNEZ, Emilio Pagani"
 portrait = "avatar/Nunez.Pagani.Emilio.jpg"
 short_bio = "His research focuses on the ecosystem-atmosphere interaction as well as the cycles and transformations of atmospheric pollutants, especially greenhouse gases and aerosol particles."
 short_name = ""
-title = "NUNEZ, Pagani, Emilio"
+title = "NUNEZ, Emilio Pagani"
 
   [[social]]
     icon = "envelope"

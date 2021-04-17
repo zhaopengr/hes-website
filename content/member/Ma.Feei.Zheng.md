@@ -7,11 +7,11 @@ interests = [
     "Micrometeorology",
     "Environmental Science"
   ]
-name = "MA, Feei, Zheng"
+name = "MA, Zheng Feei"
 portrait = "avatar/Ma.Feei.Zheng.jpg"
 short_bio = "His research focuses on the ecosystem-atmosphere interaction as well as the cycles and transformations of atmospheric pollutants, especially greenhouse gases and aerosol particles."
 short_name = ""
-title = "MA, Feei, Zheng"
+title = "MA, Zheng Feei"
 
   [[social]]
     icon = "envelope"

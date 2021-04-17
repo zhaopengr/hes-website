@@ -20,5 +20,5 @@ url_video = ""
 [[authors]]
     id = "Zhao.Peng"
 [[authors]]
-    name = "Yi Li"
+    name = "LI, Yi"
 +++

@@ -20,9 +20,9 @@ url_video = ""
 [[authors]]
     id = "Zhao.Peng"
 [[authors]]
-    name = "Yihui Xie"
+    name = "XIE, Yihui"
 [[authors]]
-    name = "Xiangyun Huang"
+    name = "HUANG, Xiangyun"
 +++
 
 Comming soon...

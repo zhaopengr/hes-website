@@ -26,14 +26,11 @@ url_video = "https://video.xjtlu.edu.cn/Mediasite/Play/cd1e51896a254be08ec65faef
 [[authors]]
     id = "Han.Lei"
 [[authors]]
-    name = "Xiaoxiang Wang"
-    is_member = false
+    name = "WANG, Xiaoxiang"
 [[authors]]
-    name = "Lia Hemerik"
-    is_member = false
+    name = "HEMERIK, Lia"
 [[authors]]
     id = "Knops.Johannes"
 [[authors]]
-    name = "Wopke van der Werf"
-    is_member = false
+    name = "VAN DER WERF, Wopke"
 +++
