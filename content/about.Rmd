@@ -27,14 +27,6 @@ Public health is an interdisciplinary field that seeks to promote and maintain t
 
 This is reflected in the department's interdisciplinary research and highly experienced international academic staff.
 
-### Ongoing research projects
-
-```{r, echo=FALSE}
-source("../R/functions.R")
-project <- read_mdtable(mdfile = "../static/database/project.md", skip = 0)
-DT::datatable(project)
-```
-
 ### Our location
 
 ```{r, echo=FALSE}

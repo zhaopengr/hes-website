@@ -1,0 +1,12 @@
+---
+short_text: "Funded."
+title: "Projects"
+authors:
+  - id: Zhao.Peng
+---
+
+```{r, echo=FALSE}
+source("../../R/functions.R")
+project <- read_mdtable(mdfile = "../../static/database/project.md", skip = 0)
+DT::datatable(project)
+```
