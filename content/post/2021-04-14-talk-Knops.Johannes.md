@@ -6,4 +6,4 @@ title = "[2021-04-14:TALK] Emphasis Areas of Department Health & Environmental S
     id = "Knops.Johannes"
 +++
 
-<embed src="../pdf/Knops.Johannes_HES_emphasis_areas.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="../../pdf/Knops.Johannes_HES_emphasis_areas.pdf" type="application/pdf" width="100%" height="600px" />
