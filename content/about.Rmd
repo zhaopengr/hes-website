@@ -3,9 +3,9 @@ title: About
 slug: about
 ---
 
-<video id="example_video_1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="none" poster="https://play.xjtlu.edu.cn/d33b4a8ce3984172ba48e102ceaaf8c2/snapshots/7da9e6b5c2a8486ba0c765ccb1e2a465-00005.jpg">
-<source src="https://play.xjtlu.edu.cn/sv/54f8b7fc-17195d88845/54f8b7fc-17195d88845.mp4" type="video/mp4">	
-</video>
+<iframe src="../../html/HES_emphasis_areas/Knops.Johannes_HES_emphasis_areas.html" width="800" height="450px"></iframe>
+
+[Full-screen View](../../html/HES_emphasis_areas/Knops.Johannes_HES_emphasis_areas.html)
 
 The Department of Health and Environmental Sciences combines distinctive disciplinary approaches to understand and solve some of the most critical challenges faced by society today.
 
@@ -33,3 +33,6 @@ This is reflected in the department's interdisciplinary research and highly expe
 xjtlu::get_map(longitude = 120.7405, latitude = 31.2686, latitude_view = 31.2686 + 0.003)
 ```
 
+<video id="example_video_1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="none" poster="https://play.xjtlu.edu.cn/d33b4a8ce3984172ba48e102ceaaf8c2/snapshots/7da9e6b5c2a8486ba0c765ccb1e2a465-00005.jpg">
+<source src="https://play.xjtlu.edu.cn/sv/54f8b7fc-17195d88845/54f8b7fc-17195d88845.mp4" type="video/mp4">	
+</video>
