@@ -1,0 +1,43 @@
+---
+title: About
+slug: about
+---
+
+<video id="example_video_1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="none" poster="https://play.xjtlu.edu.cn/d33b4a8ce3984172ba48e102ceaaf8c2/snapshots/7da9e6b5c2a8486ba0c765ccb1e2a465-00005.jpg">
+<source src="https://play.xjtlu.edu.cn/sv/54f8b7fc-17195d88845/54f8b7fc-17195d88845.mp4" type="video/mp4">	
+</video>
+
+The Department of Health and Environmental Sciences combines distinctive disciplinary approaches to understand and solve some of the most critical challenges faced by society today.
+
+In our programmes, we provide our students with the theoretical and practical foundations needed for a successful career working to improve the health and well-being of populations and the environment. Our students gain a strong grounding in natural and social sciences, as well as medical humanities, in order to develop a holistic view of the complex processes contributing to the health of populations, and those behind globalised environmental issues.
+
+Our research is brought directly into the classroom, providing a learning and teaching experience that combines theory with the most current knowledge in public health and environmental science.
+
+### ENVIRONMENTAL SCIENCES
+
+Environmental science has grown as a multidisciplinary academic field that integrates physical and ecological sciences and applies scientific approaches to examining the impacts of humans on natural resources. Environmental issues are rising steadily higher on the Chinese political and economic agendas, and as a result, environmental scientists in China can expect to be tasked with finding solutions to some of the most urgent issues in China and elsewhere, such as climate change, pollution of water, air and soil, land use change (desertification, food security), water issues (floods, water shortages), secure energy supplies, and biodiversity losses. There is a seemingly infinite, and growing, number of environmental challenges.
+
+Our programmes provide students with the necessary grounding in physical and ecological sciences and the technical skills to investigate these problems, as well as find appropriate management solutions. We are committed to equipping graduates with essential skills whether they enter employment, or progress to postgraduate studies.
+
+### PUBLIC HEALTH
+
+The health of populations is a persistent and imperative global concern. We are faced with significant population health challenges that range from rapidly growing and ageing populations to urbanisation, climate change, new patterns of disease, sustainable development and environmental health challenges, management of man-made and natural disasters, healthcare financing and healthcare reforms.
+
+Public health is an interdisciplinary field that seeks to promote and maintain the health, safety and well-being of populations and to prevent and manage disease, disability and human suffering.
+
+This is reflected in the department's interdisciplinary research and highly experienced international academic staff.
+
+### Ongoing research projects
+
+```{r, echo=FALSE}
+source("../R/functions.R")
+project <- read_mdtable(mdfile = "../static/database/project.md", skip = 0)
+DT::datatable(project)
+```
+
+### Our location
+
+```{r, echo=FALSE}
+xjtlu::get_map(longitute = 120.7405, latitude = 31.2686)
+```
+

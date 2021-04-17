@@ -97,59 +97,64 @@ tag = "tags"
   [[menu.main]]
       name = "Home"
       url = "/#top"
-      weight = 1
+      weight = 10
 
-#  [[menu.main]]
-#      name = "About"
-#      url = "/about"
-#      weight = 10
+  [[menu.main]]
+      name = "Research"
+      url = "/#projects"
+      weight = 20
 
   [[menu.main]]
       name = "Publications"
       url = "/#publications"
-      weight = 3
+      weight = 30
 
-    [[menu.main]]
-      name = "Research"
-      url = "/#projects"
-      weight = 2
-
+  [[menu.main]]
+      name = "Modules"
+      url = "/post/module"
+      weight = 40
+      
   [[menu.main]]
       name = "Staff"
       url = "/#members"
-      weight = 4
+      weight = 50
 
   [[menu.main]]
       name = "Students"
       url = "/post/students"
-      weight = 4
+      weight = 60
       
   [[menu.main]]
       name = "Alumni"
       url = "/post/alumni"
-      weight = 4
+      weight = 70
 
   [[menu.main]]
       name = "News"
       url = "/#posts"
-      weight = 5
+      weight = 80
 
   [[menu.main]]
       name = "Lab"
       url = "https://heslab.pzhao.org/"
-      weight = 6
+      weight = 90
 	  
   [[menu.main]]
       name = "Forum"
       url = "https://github.com/pzhaonet/hes-website/issues"
-      weight = 7
+      weight = 100
 
   [[menu.main]]
       name = "Contact"
       url = "/#contact"
-      weight = 9
+      weight = 110
+      
+  [[menu.main]]
+      name = "About"
+      url = "/about"
+      weight = 120
       
   [[menu.main]]
       name = "Edit"
       url = "https://github.com/pzhaonet/hes-website/tree/main/content"
-      weight = 10
+      weight = 130
