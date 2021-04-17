@@ -1,5 +1,4 @@
 +++
-date = "2021-04-02"
 short_text = "We are still here."
 title = "PhD students"
 [[authors]]
