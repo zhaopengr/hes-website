@@ -78,7 +78,10 @@ More details can be found on his personal website: <https://pzhao.org>
 ### Talks
 
 - Powerpointless Teaching: A Slides-Free Teaching Style for Post Pandemic Education at XJTLU ([Info](https://learningmall.xjtlu.edu.cn/mod/page/view.php?id=85829&forceview=1) [BBB](https://learningmall.xjtlu.edu.cn/mod/bigbluebuttonbn/view.php?id=85346))
-- Build an Academic Website if What You Study Is a Mess](https://zpgroup.pzhao.org/publication/zhao2020-talk-mess/)
-- 使用 R 语言进行学术交流 (R in Academic Communication)](https://zpgroup.pzhao.org/publication/zhao2020-talk-cufe/)
-- R Markdown: A Story behind the Website nCoV2020.org](https://zpgroup.pzhao.org/publication/zhao2020-talk-library/)
-- Challenges and opportunities of quantifying local CO2 advection at a mountain forest in the Alps](https://zpgroup.pzhao.org/publication/galvagno2020-talk-egu/)
+- [Build an Academic Website if What You Study Is a Mess](https://zpgroup.pzhao.org/publication/zhao2020-talk-mess/)
+- [使用 R 语言进行学术交流 (R in Academic Communication)](https://zpgroup.pzhao.org/publication/zhao2020-talk-cufe/)
+- [R Markdown: A Story behind the Website nCoV2020.org](https://zpgroup.pzhao.org/publication/zhao2020-talk-library/)
+
+### Posters
+
+- [Challenges and opportunities of quantifying local CO2 advection at a mountain forest in the Alps](https://zpgroup.pzhao.org/publication/galvagno2020-talk-egu/)
