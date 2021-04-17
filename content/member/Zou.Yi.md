@@ -14,8 +14,8 @@ title = "ZOU, Yi"
     icon_pack = "fa"
     link = "mailto:YI.ZOU@xjtlu.edu.cn"
 [[organizations]]
-    name = "HES, XJTLU"
-    role = "Lecturer, PhD"
+    name = "PhD"
+    role = "Lecturer"
 
 [[education]]
     course = "Ph.D. , University College London (UCL), - 2014"

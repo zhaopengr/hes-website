@@ -14,11 +14,11 @@ title = "HAN, Lei"
     icon_pack = "fa"
     link = "mailto:Lei.Han@xjtlu.edu.cn"
 [[organizations]]
-    name = "HES, XJTLU"
-    role = "Lecturer, Ph. D."
+    name = "Dr. rer. nat"
+    role = "Assistant Professor"
 
 [[education]]
-    course = "Ph.D., University of Bayreuth, Germany, -2013"
+    course = "Dr. rer. nat, University of Bayreuth, Germany, -2013"
 [[education]]
     course = "M. Sc., Peking University, China, -2005"
 [[education]]

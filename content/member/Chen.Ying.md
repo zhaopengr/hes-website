@@ -14,8 +14,8 @@ title = "CHEN, Ying"
     icon_pack = "fa"
     link = "mailto:Ying.Chen01@xjtlu.edu.cn"
 [[organizations]]
-    name = "HES, XJTLU"
-    role = "Associate Professor (Biostatistics and Epidemiology) , PhD"
+    name = "PhD"
+    role = "Associate Professor (Biostatistics and Epidemiology) "
 
 [[education]]
     course = "BSc, University of Yangzhou, 2002 - 2006"

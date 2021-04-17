@@ -14,8 +14,8 @@ title = "LI, Li"
     icon_pack = "fa"
     link = "mailto:Li.Li01@xjtlu.edu.cn"
 [[organizations]]
-    name = "HES, XJTLU"
-    role = "Assistant Professor, Dr. rer. nat"
+    name = "Dr. rer. nat"
+    role = "Assistant Professor"
 
 [[education]]
     course = "BA, Northwestern Polytechnic University – 2004"

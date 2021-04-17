@@ -14,8 +14,8 @@ title = "NUNEZ, Emilio Pagani"
     icon_pack = "fa"
     link = "mailto:Emilio.PNunez@xjtlu.edu.cn"
 [[organizations]]
-    name = "HES, XJTLU"
-    role = "Assistant Professor, Ph.D."
+    name = "Ph.D."
+    role = "Assistant Professor"
 
 [[education]]
     course = "PhD in Biodiversity, University of Barcelona - 2014"

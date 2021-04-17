@@ -14,8 +14,8 @@ title = "WAMSIEDEL, Marius"
     icon_pack = "fa"
     link = "mailto:Marius.Wamsiedel@xjtlu.edu.cn"
 [[organizations]]
-    name = "HES, XJTLU"
-    role = "Lecturer,  (PhD)"
+    name = " (PhD)"
+    role = "Lecturer"
 
 [[education]]
     course = "PhD, University of Hong Kong - 2016"

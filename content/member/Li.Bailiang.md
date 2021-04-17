@@ -14,8 +14,8 @@ title = "LI, Bailiang"
     icon_pack = "fa"
     link = "mailto:Bailiang.Li@xjtlu.edu.cn"
 [[organizations]]
-    name = "HES, XJTLU"
-    role = "Lecturer, Ph.D."
+    name = "Ph.D."
+    role = "Lecturer"
 
 [[education]]
     course = "Ph.D. , Texas A&amp;M University,  - 2010"

@@ -14,8 +14,8 @@ title = "QIN, Sujie"
     icon_pack = "fa"
     link = "mailto:Sujie.Qin@xjtlu.edu.cn"
 [[organizations]]
-    name = "HES, XJTLU"
-    role = "Lecturer, Ph.D."
+    name = "Ph.D."
+    role = "Lecturer"
 
 [[education]]
     course = "Ph.D. , Environmental Sciences, University of California, Riverside, California, USA,  - 2007"

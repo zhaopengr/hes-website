@@ -14,8 +14,8 @@ title = "KNOPS, Johannes"
     icon_pack = "fa"
     link = "mailto:Johannes.Knops@xjtlu.edu.cn"
 [[organizations]]
-    name = "HES, XJTLU"
-    role = "Professor, Ph.D."
+    name = "Ph.D."
+    role = "Professor"
 
 [[education]]
     course = "1982 Ing. Horticulture, Higher Agricultural College, The Netherlands"
@@ -29,8 +29,6 @@ title = "KNOPS, Johannes"
 ### Profile
 
 Johannes (Jean) M H Knops is Professor and Head of the Department of Health and Environmental Sciences at Xi’an Jiaotong Liverpool University in Suzhou, Jiangsu, China.  <br><br>He obtained his PhD from Arizona State University in the USA, was a postdoctoral fellow at the University of California, Berkeley and at the University of Minnesota.  <br><br>Previously he has served on the faculty of the University of Nebraska and was director of the Cedar Point Biological Station. <br><br>His teaching, research, and publications focus on the drivers that control biodiversity and the importance of biodiversity in the functioning of ecosystems. <br><br>Current research emphasis is on examining plant diversity in Qinghai-Tibetan alpine meadows and developing a framework to study biodiversity in an rapidly changing urban environment in China.
-
-<iframe src="../../html/HES_emphasis_areas/Knops.Johannes_HES_emphasis_areas.html" width="800" height="450px"></iframe>
 
 ###  Experience
 

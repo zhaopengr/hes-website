@@ -14,8 +14,8 @@ title = "XIAO, Lingyun"
     icon_pack = "fa"
     link = "mailto:Lingyun.Xiao@xjtlu.edu.cn"
 [[organizations]]
-    name = "HES, XJTLU"
-    role = "Assistant Professor, PH. D."
+    name = "PH. D."
+    role = "Assistant Professor"
 
 [[education]]
     course = "Ph.D., Zoology. Peking University, 2011-2017"

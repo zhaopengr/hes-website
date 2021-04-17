@@ -14,8 +14,8 @@ title = "MA, Zheng Feei"
     icon_pack = "fa"
     link = "mailto:Zhengfeei.Ma@xjtlu.edu.cn"
 [[organizations]]
-    name = "HES, XJTLU"
-    role = "Lecturer in Human Nutrition, PhD FHEA FRSPH ANutr"
+    name = "PhD FHEA FRSPH ANutr"
+    role = "Lecturer in Human Nutrition"
 
 [[education]]
     course = "Postgraduate Certificate (PGCert) in Teaching and Supporting Learning and in Higher Education (with Merit), University of Liverpool, 2019"

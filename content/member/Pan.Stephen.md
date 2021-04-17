@@ -14,8 +14,8 @@ title = "PAN, Stephen"
     icon_pack = "fa"
     link = "mailto:Stephen.Pan@xjtlu.edu.cn"
 [[organizations]]
-    name = "HES, XJTLU"
-    role = "Assistant Professor, Ph.D."
+    name = "Ph.D."
+    role = "Assistant Professor"
 
 [[education]]
     course = "Ph.D. , University of British Columbia, Vancouver, Canada"

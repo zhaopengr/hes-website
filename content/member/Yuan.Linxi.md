@@ -14,8 +14,8 @@ title = "YUAN, Linxi"
     icon_pack = "fa"
     link = "mailto:Linxi.Yuan@xjtlu.edu.cn"
 [[organizations]]
-    name = "HES, XJTLU"
-    role = "Associate Professor, PhD"
+    name = "PhD"
+    role = "Associate Professor"
 
 [[education]]
     course = "Ph.D., Environmental Sciences. School of Earth and Space Sciences, University of Science and Technology of China, 2010"

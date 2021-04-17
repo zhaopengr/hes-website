@@ -14,8 +14,8 @@ title = "CHEN, Zheng"
     icon_pack = "fa"
     link = "mailto:Zheng.Chen@xjtlu.edu.cn"
 [[organizations]]
-    name = "HES, XJTLU"
-    role = "Associate Professor, Ph.D."
+    name = "Ph.D."
+    role = "Associate Professor"
 
 [[education]]
     course = "Ph.D. , Agricultural Chemistry, Hokkaido University,  - 2008"

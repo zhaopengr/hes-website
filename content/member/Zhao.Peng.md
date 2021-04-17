@@ -14,11 +14,11 @@ title = "ZHAO, Peng"
     icon_pack = "fa"
     link = "mailto:Peng.Zhao@xjtlu.edu.cn"
 [[organizations]]
-    name = "HES, XJTLU"
-    role = "Assistant Professor, Ph. D."
+    name = "Dr. rer. nat"
+    role = "Assistant Professor"
 
 [[education]]
-    course = "Ph.D. , Department of Micrometeorology, University of Bayreuth, - 2014"
+    course = "Dr. rer. nat, Department of Micrometeorology, University of Bayreuth, - 2014"
 [[education]]
     course = "M.Sc. , College of Environmental Sciences, Peking University, - 2005"
 [[education]]

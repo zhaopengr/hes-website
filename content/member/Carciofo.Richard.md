@@ -14,8 +14,8 @@ title = "CARCIOFO, Richard"
     icon_pack = "fa"
     link = "mailto:Richard.Carciofo@xjtlu.edu.cn"
 [[organizations]]
-    name = "HES, XJTLU"
-    role = "Lecturer, Ph.D."
+    name = "Ph.D."
+    role = "Lecturer"
 
 [[education]]
     course = "Ph.D. , University of the Chinese Academy of Sciences,  - 2014"
