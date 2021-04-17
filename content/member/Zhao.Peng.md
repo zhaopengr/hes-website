@@ -6,13 +6,39 @@ id = "Zhao.Peng"
 interests = ["Bioaerosols in the upper troposphere and the lowermost stratosphere", "Cycles and transformations of atmospheric pollutants, especially carbon and nitrogen compounds", "Energy and matter exchange between the terrestrial ecosystem and the atmosphere"]
 name = "ZHAO, Peng"
 portrait = "avatar/Zhao.Peng.jpg"
-short_bio = "STAFF_SHORT_INTRO"
+short_bio = "His research focuses on the ecosystem-atmosphere interaction as well as the cycles and transformations of atmospheric pollutants, especially greenhouse gases and aerosol particles."
 short_name = ""
 title = "ZHAO, Peng"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:Peng.Zhao@xjtlu.edu.cn"
+[[social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.at/citations?user=EFeUfDwAAAAJ&hl=zh-CN"
+[[social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/pzhaonet"
+
+[[social]]
+    icon = "commenting"
+    icon_pack = "fa"
+    link = "https://disqus.com/by/pzhao/"
+[[social]]
+    icon = "music"
+    icon_pack = "fa"
+    link = "http://kg.qq.com/node/personal?uid=649d9d85212c3489"
+[[social]]
+    icon = "video-camera"
+    icon_pack = "fa"
+    link = "http://v.qq.com/vplus/0f8190586a3f2f22a25e9827b38c171e"
+[[social]]
+    icon = "rss"
+    icon_pack = "fa"
+    link = "http://www.pzhao.org"
+
 [[organizations]]
     name = "Dr. rer. nat"
     role = "Assistant Professor"
@@ -28,7 +54,15 @@ title = "ZHAO, Peng"
 
 ### Profile
 
-Dr. Peng Zhao holds a Ph.D. in Geoecology (University of Bayreuth), a M.Sc. in Environmental Sciences (Peking University), and a B.Sc. in Chemistry (Peking University). He worked as an assistant research scientist at the Chinese Academy of Meteorological Sciences, a post-doc at the Institute of Ecology, University of Innsbruck, and a post-doc at the Max Planck Institute of Chemistry, before he joined Xi'an Jiaotong-Liverpool University in 2020.<br><br>His research focuses on the ecosystem-atmosphere interaction as well as the cycles and transformations of atmospheric pollutants, especially carbon and nitrogen compounds.<br><br>He teaches the module "Statistics for Environmental Scientists" and "Methods for Analysing Public Health IV: Working in the Field: Data". Before he joined Xi'an Jiaotong-Liverpool University, he taught "R, Open Science, and Reproducible Research" at the Max Planck Institute for Chemistry, and "Routine Observation of Atmosphere" at the Chinese Academy of Meteorological Sciences.<br><br>He published the book "Learning R" (in Chinese).<br><br>More details can be found on his personal website: pzhao.org
+Dr. Peng Zhao used to work as an assistant research scientist at the Chinese Academy of Meteorological Sciences, a post-doc at the Institute of Ecology, University of Innsbruck, and a post-doc at the Max Planck Institute of Chemistry, before he joined Xi'an Jiaotong-Liverpool University in 2020.
+
+His research focuses on the ecosystem-atmosphere interaction as well as the cycles and transformations of atmospheric pollutants, especially greenhouse gases and aerosol particles.
+
+He teaches the module "Statistics for Environmental Scientists" and "Methods for Analysing Public Health IV: Working in the Field: Data". Before he joined Xi'an Jiaotong-Liverpool University, he taught "R, Open Science, and Reproducible Research" at the Max Planck Institute for Chemistry, and "Routine Observation of Atmosphere" at the Chinese Academy of Meteorological Sciences.
+
+He published the book "Learning R" (in Chinese).
+
+More details can be found on his personal website: <https://pzhao.org>
 
 ###  Experience
 
@@ -41,6 +75,14 @@ Dr. Peng Zhao holds a Ph.D. in Geoecology (University of Bayreuth), a M.Sc. in E
 ###  Books, monographs, compilations and manuals
 
 <ul> <li> Zhao, P., Li, Y.. Learning R: From the Very Beginning. Research Press, 2018, Beijing. ISBN 9787519902940. 343 pp. </li><li> Lüers, J., Detsch, F., and Zhao, P.. 2014. Application of a Multi-Step Error Filter for Post-Processing Atmospheric Flux and Meteorological Basic Data. University of Bayreuth, Department of Micrometeorology, in print, ISSN 1614-8916, Work Report 58, 22 pp.  </li><li> Zhao, P., Foken, T., and Lüers J.. 2014. GaFiR: A Gap-Filling Package for Ecosystem-Atmosphere Carbon Dioxide Flux and Evapotranspiration Data. University of Bayreuth, Department of Micrometeorology, Print, ISSN 1614-8916, Work Report 59. 22 pp. </li><li> Babel, W., Schaller, C., Eigenmann, R., Foken, T.,, Hübner, J., Jentsch, A., Kreyling, J., Sultana, F., and Zhao, P.. 2013. Documentation of the Event-Hmms Experiment 2012: Microclimatological Effects of Rain-Out Shelters Within Event II. University of Bayreuth, Department of Micrometeorology, Print, ISSN 1614-8916, Work Report 55. 32 pp. </li><li> Zhao, P., Lüers, J., Olesch, J., and Foken, T.. 2011. Complex Terrain and Ecological Heterogeneity (TERRECO):Documentation of the Observation Period in 2010, Haean, South Korea. University of Bayreuth, Department of Micrometeorology, Print, ISSN 1614-8916, Work Report 45. 43 pp. </li> </ul>
+
+### Talks
+
+- Powerpointless Teaching: A Slides-Free Teaching Style for Post Pandemic Education at XJTLU ([Info](https://learningmall.xjtlu.edu.cn/mod/page/view.php?id=85829&forceview=1) [BBB](https://learningmall.xjtlu.edu.cn/mod/bigbluebuttonbn/view.php?id=85346))
+- [Build an Academic Website if What You Study Is a Mess](https://zpgroup.pzhao.org/publication/zhao2020-talk-mess/)
+- [Challenges and opportunities of quantifying local CO2 advection at a mountain forest in the Alps](https://zpgroup.pzhao.org/publication/galvagno2020-talk-egu/)
+- [使用 R 语言进行学术交流 (R in Academic Communication)](https://zpgroup.pzhao.org/publication/zhao2020-talk-cufe/)
+- [R Markdown: A Story behind the Website nCoV2020.org](https://zpgroup.pzhao.org/publication/zhao2020-talk-library/)
 
 ###  Courses taught
 
