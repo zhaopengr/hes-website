@@ -1,6 +1,14 @@
 <footer class="site-footer">
+
     <div class="container">
-        <p class="powered-by">
+  <script src="https://utteranc.es/client.js"
+        repo="pzhaonet/hes-website"
+        issue-term="pathname"
+        theme="boxy-light"
+        crossorigin="anonymous"
+        async>
+  </script>
+  <p class="powered-by">
             {{ with .Site.Copyright }}{{ . | markdownify}} {{ end }}
             </br>
 			<a href="https://github.com/pzhaonet/hes-website/issues" target="_blank">Forum</a> - 
