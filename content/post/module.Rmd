@@ -1,0 +1,13 @@
+---
+date: "2021-04-01"
+short_text: "We are one."
+title: "Modules"
+authors:
+  - id: Zhao.Peng
+---
+
+```{r, echo=FALSE}
+source("../../R/functions.R")
+module <- read_mdtable(mdfile = "../../static/database/module.md", skip = 0)
+DT::datatable(module)
+```
