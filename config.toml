@@ -139,11 +139,6 @@ tag = "tags"
       name = "Lab"
       url = "https://heslab.pzhao.org/"
       weight = 90
-	  
-  [[menu.main]]
-      name = "Forum"
-      url = "https://github.com/pzhaonet/hes-website/issues"
-      weight = 100
 
   [[menu.main]]
       name = "Contact"
@@ -154,8 +149,3 @@ tag = "tags"
       name = "About"
       url = "/about"
       weight = 120
-      
-  [[menu.main]]
-      name = "Edit"
-      url = "https://github.com/pzhaonet/hes-website/tree/main/content"
-      weight = 130
