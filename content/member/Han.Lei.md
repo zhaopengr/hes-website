@@ -1,68 +1,56 @@
 +++
+
 bio = ""
 date = "2021-04-16"
 id = "Han.Lei"
-interests = [
-    "Atmospheric Science",
-    "Micrometeorology",
-    "Environmental Science"
-  ]
+interests = ["Environmental health affect for air pollutants", "Kinetic model for multiphase chemistry", "Heterogeneous chemistry of semi-volatile compounds"]
 name = "HAN, Lei"
 portrait = "avatar/Han.Lei.jpg"
-short_bio = "His research focuses on the ecosystem-atmosphere interaction as well as the cycles and transformations of atmospheric pollutants, especially greenhouse gases and aerosol particles."
+short_bio = "STAFF_SHORT_INTRO"
 short_name = ""
 title = "HAN, Lei"
-
-  [[social]]
+[[social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:pzhao@pzhao.net"
-
-  [[social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.at/citations?user=EFeUfDwAAAAJ&hl=zh-CN"
-
-  [[social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/pzhaonet"
-
-  [[social]]
-    icon = "commenting"
-    icon_pack = "fa"
-    link = "https://disqus.com/by/pzhao/"
-
-  [[social]]
-    icon = "music"
-    icon_pack = "fa"
-    link = "http://kg.qq.com/node/personal?uid=649d9d85212c3489"
-
-  [[social]]
-    icon = "video-camera"
-    icon_pack = "fa"
-    link = "http://v.qq.com/vplus/0f8190586a3f2f22a25e9827b38c171e"
-
-  [[social]]
-    icon = "rss"
-    icon_pack = "fa"
-    link = "http://www.pzhao.org"
-
-[[education]]
-    course = "PhD in Geoecology"
-    institution = "University of Bayreuth"
-
-[[education]]
-    course = "MSc in Environmental Sciences"
-    institution = "Peking University"
-
-[[education]]
-    course = "BSc in Chemistry"
-    institution = "Peking University"
-
+    link = "mailto:Lei.Han@xjtlu.edu.cn"
 [[organizations]]
     name = "HES, XJTLU"
-    role = "Assistant Professor"
+    role = "Lecturer, Ph. D."
+
+[[education]]
+    course = "Ph.D., University of Bayreuth, Germany, -2013"
+[[education]]
+    course = "M. Sc., Peking University, China, -2005"
+[[education]]
+    course = "B. Sc., Peking University, China, -2002"
+
 +++
 
-STAFF_INTRO
+### Profile
+
+Dr Lei Han received her PhD in Atmospheric Science at University of Bayreuth in Germany. Her research area focuses on the degradation process of pesticides and other semi-volatile organic compound in the atmosphere. She is also interested in the health effect of atmospheric pollutants. 
+
+###  Experience
+
+<ul> <li> Posdoc Research Fellow, Max-Planck-Institute for Chemistry, Mainz, Germany, 2017-2020 </li><li> Research assisstant, Atmospheric Chemistry Research Lab, University of Bayreuth, 2014-2017 </li><li> Process Engineer, Mars Foods China, 2005-2009 </li> </ul>
+
+###  Articles
+
+<ul> <li> Han, L.; Siekmann, F.; Zetzsch, C. Rate constants for the reaction of OH radicals with hydrocarbons in a smog chamber at low atmospheric temperatures. Atmosphere 2018, 9, 320 </li><li> Socorro, J.; Lakey, P. S. J.; Han, L.; Berkemeier, T.; Lammel, G.; Zetzsch, C.; Pöschl, U.; Shiraiwa, M. Heterogeneous OH Oxidation, Shielding Effects, and Implications for the Atmospheric Fate of Terbuthylazine and Other Pesticides. Environmental Science and Technology 2017, 51 (23), 13749–13754 </li><li> Han, L.; Zhu T.; Sun, F.; Shang, J. Gas-phase Reaction of Herbicide 2-Methyl-4-chlorophenoxy Acetic Acid (MCPA) with OH Radicals. Chemical Journal of Chinese Universities 2006, 27 (1), 112-115 </li><li> Sun, F.; Zhu, T.; Shang, J.; Han, L. Gas-Phase Reaction of Dichlorvos, Carbaryl, Chlordimeform, and 2,4-D Butyl Ester with OH Radicals. International Journal of Chemical Kinetics 2005, 37 (12), 755–762 </li> </ul>
+
+###  Teaching activities
+
+<ul> <li> DPH 307, Social Perspectives of Public Health VI: Health in Disasters and Humanitarian Crises </li><li> DPH 203, Life Sciences for Public Health II: Health and Environment </li><li> DPH 306,  The Practise of Public Health IV: Planning Healthy Cities </li> </ul>
+
+###  Awards and honours
+
+<ul> <li> 2017, Scholarship from the Max-Planck Society in Germany </li> </ul>
+
+
+### Contact:
+
+ - Email: Lei.Han@xjtlu.edu.cn
+
+ - Telephone: +86 (0)512 81889184 
+
+ - Address: <br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
