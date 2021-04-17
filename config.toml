@@ -9,7 +9,8 @@ theme = "hugo-academic-group"
 title = "HES-XJTLU"
 math = true
 copyright = "&copy; Department of Health and Environmental Sciences, XJTLU"
-
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 [taxonomies]
 category = "categories"
 tag = "tags"
