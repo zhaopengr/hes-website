@@ -38,6 +38,6 @@ DT::datatable(project)
 ### Our location
 
 ```{r, echo=FALSE}
-xjtlu::get_map(longitute = 120.7405, latitude = 31.2686)
+xjtlu::get_map(longitude = 120.7405, latitude = 31.2686, latitude_view = 31.2686 + 0.003)
 ```
 
