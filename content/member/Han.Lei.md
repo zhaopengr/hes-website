@@ -8,7 +8,7 @@ interests = [
     "Environmental Science"
   ]
 name = "HAN, Lei"
-portrait = "avatar/Han.Lei.png"
+portrait = "avatar/Han.Lei.jpg"
 short_bio = "His research focuses on the ecosystem-atmosphere interaction as well as the cycles and transformations of atmospheric pollutants, especially greenhouse gases and aerosol particles."
 short_name = ""
 title = "HAN, Lei"
