@@ -2,7 +2,7 @@
 {{ partial "navbar.html" . }}
 
 <div class="container">
-    <h1>Staff</h1>
+    <h1>Academic Staff</h1>
     {{ range (sort .Data.Pages ".Params.sort_position") }}
             {{partial "member_li" .}}
     {{ end }}
