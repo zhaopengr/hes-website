@@ -2,6 +2,7 @@
 date = "2021-04-16"
 short_text = "Li, Peng, Marius, Emilio, and Linxi talked at the colloquium."
 title = "[2021-04-16:TALK] XJTLU 2021 Annual Learning and Teaching Colloquium"
+image = "camera/campus_ibss.jpg"
 [[authors]]
     id = "Zhao.Peng"
 

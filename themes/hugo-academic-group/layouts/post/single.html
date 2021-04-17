@@ -4,9 +4,13 @@
 <div class="container">
 
     <article class="article" itemscope itemtype="http://schema.org/Article">
+<!--
         {{ if .Params.image }}
+            <img src="{{ $.Site.BaseURL }}/img/{{ .Params.image }}">
+
             <img src="{{ $.Site.BaseURL }}/img/{{ .Params.image }}" class="article-banner" itemprop="image">
         {{end}}
+-->
 
         <h1 itemprop="name">{{ .Title }}</h1>
 

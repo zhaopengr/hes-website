@@ -2,7 +2,7 @@
 abstract = ""
 abstract_short = "Short version of abstract."
 date = "2018-05-01"
-image = "publication/book-2018-zhao.png"
+image = ""
 image_preview = ""
 math = false
 publication = "研究出版社，北京"
@@ -22,3 +22,5 @@ url_video = ""
 [[authors]]
     name = "LI, Yi"
 +++
+
+![](../../img/publication/book-2018-zhao.png)
