@@ -5,12 +5,22 @@ authors:
   - id: Zhao.Peng
 ---
 
+
+UK degrees are three years long whereas in China they are four, therefore we do accept students with certain qualifications directly into Year Two, which is the start of the main academic programme. Most students, however, enter into [Year One](https://www.xjtlu.edu.cn/en/study/why-study-at-xjtlu/year-one), which provides you with a range of interesting modules, language classes and core skills for your degree.
+
+The modules for Year Two to Year Four are in the following table.
+
 ```{r, echo=FALSE}
 source("../../R/functions.R")
 module <- read_mdtable(mdfile = "../../static/database/module.md", skip = 0)
 module$Leader <- convert_id2link(staff_id = module$Leader)
 module$Involved <- convert_id2link(staff_id = module$Involved)
-DT::datatable(module, escape = FALSE)
+module$Title <- paste0('<a href="http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=', 
+                       module$Module, 
+                       '">',
+                       module$Title, "</a>")
+DT::datatable(module, escape = FALSE,  
+              options = list(lengthMenu = c(nrow(module), 5, 10, nrow(module))))
 ```
 
 ## OVERVIEW
@@ -55,44 +65,6 @@ By the time you graduate from the BSc in Environmental Science, you will have:
 > China is one of the leading countries aiming for a goal of achieve sustainable development. The Environmental Science programme equips you with a global outlook on studying both the natural and human modified environments and equips you with the skills to tackle environmental issues in China and beyond.
 >
 > --- Johannes Knops (Programme director)
-
-## MODULES
-
-- ### Year One
-
-  UK degrees are three years long whereas in China they are four, therefore we do accept students with certain qualifications directly into Year Two, which is the start of the main academic programme. Most students, however, enter into [Year One](https://www.xjtlu.edu.cn/en/study/why-study-at-xjtlu/year-one), which provides you with a range of interesting modules, language classes and core skills for your degree.
-
-- ### Year Two
-
-  - [Biodiversity of Animals, Plants & Microbes](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=BIO101)
-  - [Research and GIS Skills](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV101)
-  - [Introduction to Planet Earth](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV104)
-  - [Environmental Chemistry](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV105)
-  - [Ecology and Conservation](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV102)
-  - [Aquatic Field Skills](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV106).
-  - [Dynamic Landscapes](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV108)
-  - [Environmental Pollution](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV110).
-
-- ### Year Three
-
-  - [Environmental Sustainability I](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=UPD201)
-  - [Statistics for Environmental Scientists](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV203)
-  - [Environmental Change: Past, Present & Future](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV205)
-  - [Soils and the Environment](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV207)
-  - [Research Design](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV201)
-  - [Spatial modelling with GIS and Remote Sensing](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV204)
-  - [Environmental Science Field Skills](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV206)
-  - [Aquatic and Urban Ecology](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV208).
-
-- ### Year Four
-
-  - [Final Year Project](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV301)
-  - [Environmental Remediation and Rehabilitation Field Class](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV313)
-  - [Fluvial Systems: from headwaters to the coast](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV309)
-  - [Environmental Management](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV311)
-  - [Ecology in a changing world](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV306)
-  - [Agriculture, Food and Environment](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV308)
-  - [Environmental Impact Assessment](http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV312)
 
 ![](https://www.xjtlu.edu.cn/en/assets/image-cache/images/students/profiles/yijin-james-guo.e31b7fee.jpg)
 
