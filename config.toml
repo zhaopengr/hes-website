@@ -58,7 +58,7 @@ tag = "tags"
     
   [[params.slogan_columns]]
     title = "Matters"
-    text = "- News [link](/post)  \n- Lab [link](https://heslab.pzhao.org/)  \n- About [link](/about)  \n- Contact [link](/#contact)"
+    text = "- News [link](/post)  \n- Events [link](/post/events)  \n- Lab [link](https://heslab.pzhao.org/)  \n- About [link](/about)  \n- Contact [link](/#contact)"
     weight = 3
 
   # Selected Publications section.
