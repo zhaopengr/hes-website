@@ -10,3 +10,5 @@ source("../../R/functions.R")
 module <- read_mdtable(mdfile = "../../static/database/module.md", skip = 0)
 DT::datatable(module)
 ```
+
+[See more modules](https://www.xjtlu.edu.cn/en/study/undergraduate/environmental-science).
