@@ -62,7 +62,7 @@ DT::datatable(module, escape = FALSE,
 - 扎实掌握基础科学和应用科学的相关观点，精通基于实验室和基于现场考察的研究分析；
 - 能够站在科学的角度介绍区域性和全球性问题及其与社会的关系，无论对象是科研人员还是社会公众，从而促进各群体对于环境问题及其重要性的跨文化理解。
 
-![img](https://www.xjtlu.edu.cn/zh/assets/image-cache/images/staff/Johannes-Knopsph.f985e357.jpg)
+![](https://www.xjtlu.edu.cn/zh/assets/image-cache/images/staff/Johannes-Knopsph.f985e357.jpg)
 
 > 中国正成为努力实现可持续发展目标的领军国家之一。本专业的课程设置将培养学生形成应对环境变化问题的全球视野，并向学生讲授解决中国乃至世界环境问题的技能。
 >
@@ -70,7 +70,7 @@ DT::datatable(module, escape = FALSE,
 
 
 
-![img](https://www.xjtlu.edu.cn/zh/assets/image-cache/images/students/profiles/yijin-james-guo.e31b7fee.jpg)
+![](https://www.xjtlu.edu.cn/zh/assets/image-cache/images/students/profiles/yijin-james-guo.e31b7fee.jpg)
 
 > 环科系最吸引我的是学科交叉的特性、互动的教学方法、先进的实验设备、野外实习的机会和对社会活动的支持。环科系还大力支持我参加了联合国气候变化大会和美国学术机构学生领袖计划，这使得我的学习经历非常精彩且很有意义。
 >
