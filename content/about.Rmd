@@ -27,12 +27,15 @@ Public health is an interdisciplinary field that seeks to promote and maintain t
 
 This is reflected in the department's interdisciplinary research and highly experienced international academic staff.
 
-### Our location
+### Contact
 
 ```{r, echo=FALSE}
 xjtlu::get_map(longitude = 120.7405, latitude = 31.2686, latitude_view = 31.2686 + 0.003)
 ```
 
+- Email: someone@xjtlu.edu.cn
+- Address: Chongwenlu 8, Suzhou Industrial Park, 215123 Suzhou, Jiangsu Province, China
+ 
 <video id="example_video_1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="none" poster="https://play.xjtlu.edu.cn/d33b4a8ce3984172ba48e102ceaaf8c2/snapshots/7da9e6b5c2a8486ba0c765ccb1e2a465-00005.jpg">
 <source src="https://play.xjtlu.edu.cn/sv/54f8b7fc-17195d88845/54f8b7fc-17195d88845.mp4" type="video/mp4">	
 </video>
