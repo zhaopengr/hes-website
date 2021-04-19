@@ -1,0 +1,81 @@
+---
+short_text: "We are one."
+title: "教学"
+authors:
+  - id: Zhao.Peng
+---
+
+
+在英国，本科阶段学习学制三年，而中国本科阶段学制为四年。因此，对于已获得相应学时、证书的学生，在我校可以直接升入二年级进行专业学习；大多数学生则是进入一年级学习，包括众多有吸引力的课程，语言课程以及专业学习相关的核心技能学习。[了解更多关于一年级的信息](https://www.xjtlu.edu.cn/zh/study/why-study-at-xjtlu/year-one)。
+
+二到四年级的课程如下。
+
+```{r, echo=FALSE}
+source("../../R/functions.R")
+module <- read_mdtable(mdfile = "../../static/database/module.md", skip = 0)
+module$Leader <- convert_id2link(staff_id = module$Leader)
+module$Involved <- convert_id2link(staff_id = module$Involved)
+module$Title <- paste0('<a href="http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=', 
+                       module$Module, 
+                       '">',
+                       module$Title, "</a>")
+DT::datatable(module, escape = FALSE,  
+              options = list(lengthMenu = c(nrow(module), 5, 10, nrow(module))))
+```
+
+## 概览
+
+本专业帮助学生全面了解自然世界和环境问题，系统掌握地质环境和生态系统的复杂性，探索全球范围内环境演变的过程及规律，培养解决环境问题的能力。
+
+该专业将生物学、化学、数学、统计方法及地球科学融为一体。专业教师团队包含生物地球化学和环境化学，土壤、植物和无脊椎动物生态学，自然地理学和地貌学等领域的专家学者。
+
+学生将学习如何从解决问题的角度应对当今人类所面临的重大挑战。学生还将通过参与国际考察项目，深入了解沿海和山地环境等不同生态类型，学习调查和访问当地社区的利益相关方，从而累积丰富的实地考察技能。
+
+## 为什么选择西浦环境科学专业？
+
+- 在实践操作的过程中学习有关当地、全国乃至全球范围内环境进程的科学知识；
+
+- 从研究导向型教学中汲取知识，尤其是在人类面临严重挑战的领域，如生物多样性丧失、气候变化以及地球的化学物质循环遭破坏等；
+
+- 了解环境政策决策的复杂性，从行业领袖和非政府组织那里获取见解，并探索参与环境管理的方法；
+
+- 本专业耗资1700万元人民币新建的实验室，支持学生的实验室实践和本科生研究项目，包括学习复杂的实验室技术和数据分析技能；
+
+- 毕业生可同时获得中国教育部认可的西交利物浦大学学位和国际认可的英国利物浦大学学位。
+
+## 项目
+
+- **院系**：[理学院](https://www.xjtlu.edu.cn/zh/study/departments/school-of-science/)
+- **教学形式**：全日制
+- **学制**：四年
+- **宣传册**：[下载文件页面将在新窗口打开](https://www.xjtlu.edu.cn/zh/assets/files/prospectus/2017-prospectus-chinese-undergraduate.pdf)
+- **2+2学习**：可选
+- **学习地点**：苏州
+- **学位证书**：**西交利物浦大学**环境科学，**利物浦大学**BSc Environmental Science[（了解更多关于大学学位的信息）](https://www.xjtlu.edu.cn/zh/study/why-study-at-xjtlu/degree-types)
+
+## 知识与技能
+
+本专业毕业生将具备以下能力：
+
+- 运用生态学、地球物理学、化学等学科知识解决环境问题；
+- 具备较高的科学素养，理解本专业中各学科的科学知识是如何构建的；
+- 扎实掌握基础科学和应用科学的相关观点，精通基于实验室和基于现场考察的研究分析；
+- 能够站在科学的角度介绍区域性和全球性问题及其与社会的关系，无论对象是科研人员还是社会公众，从而促进各群体对于环境问题及其重要性的跨文化理解。
+
+![img](https://www.xjtlu.edu.cn/zh/assets/image-cache/images/staff/Johannes-Knopsph.f985e357.jpg)
+
+> 中国正成为努力实现可持续发展目标的领军国家之一。本专业的课程设置将培养学生形成应对环境变化问题的全球视野，并向学生讲授解决中国乃至世界环境问题的技能。
+>
+> --- Johannes Knops （专业负责人）
+
+
+
+![img](https://www.xjtlu.edu.cn/zh/assets/image-cache/images/students/profiles/yijin-james-guo.e31b7fee.jpg)
+
+> 环科系最吸引我的是学科交叉的特性、互动的教学方法、先进的实验设备、野外实习的机会和对社会活动的支持。环科系还大力支持我参加了联合国气候变化大会和美国学术机构学生领袖计划，这使得我的学习经历非常精彩且很有意义。
+>
+> --- 郭一锦（学生，环境科学专业，来自中国）
+
+## 就业
+
+毕业生可胜任的工作岗位包括：环境顾问、环境政策领域的公务员、环境影响评估专家、实验室科研人员、地理信息系统分析师、生态系统修复工程师、环境教育人员、环保科技专家、自然保育官、垃圾管理师等。

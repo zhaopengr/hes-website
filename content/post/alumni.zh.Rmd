@@ -1,0 +1,13 @@
+---
+short_text: "There used to be here."
+title: "校友"
+authors:
+  - id: Zhao.Peng
+---
+
+```{r, echo=FALSE}
+source("../../R/functions.R")
+alumni <- read_mdtable(mdfile = "../../static/database/alumni.md", skip = 0)
+alumni$Supervisor <- convert_id2link(staff_id = alumni$Supervisor)
+DT::datatable(alumni, escape = FALSE)
+```

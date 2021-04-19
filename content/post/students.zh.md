@@ -1,0 +1,182 @@
++++
+short_text = "We are still here."
+title = "博士生"
+[[authors]]
+    id = "Zhao.Peng"
++++
+
+## 宁清钱
+
+<img src="https://www.xjtlu.edu.cn/assets/images/students/qingqian-ning.jp" width="20%" style="display: block; margin: auto;">
+
+博士候选人宁清钱博士阶段的研究方向是栅栏结构形状分布对于栅栏-沙丘系统的影响。宁清钱硕士专业为水文环境工程，本科专业为水利水电工程。
+
+邮箱:[Qingqian.Ning@xjtlu.edu.cn](mailto:Qingqian.Ning@xjtlu.edu.cn)
+
+## MAEDE FAGHIHINIA
+
+<img src="https://www.xjtlu.edu.cn/assets/images/students/maede-faghihinia.jp" width="20%" style="display: block; margin: auto;">Maede拥有伊朗Shiraz大学自然资源工程硕士学位。
+
+她当前的项目主要是探索不同土地管理制度下的丛枝菌根真菌群落的响应，对土壤碳通量的影响以及由此产生的净碳固存或损失。这将通过13C-CO2脉冲追逐标记实验在长期的田间实验（> 10年）中进行评估。此外，将对取自该地点的土壤进行实验室实验，以量化不同系统如何应对干旱问题。
+
+邮箱： [Maede.Faghihinia@xjtlu.edu.cn](mailto:maede.faghihinia@xjtlu.edu.cn)
+
+## 李季宁
+
+<img src="https://www.xjtlu.edu.cn/assets/images/students/JiningLi.jp" width="20%" style="display: block; margin: auto;">
+
+李季宁获英国埃塞克斯大学社会心理学与社会学学士学位，英国埃克塞特大学心理学研究方法硕士学位。她目前的研究方向是中国老年人的心理健康。
+
+邮箱：[Jining.Li@xjtlu.edu.cn](mailto:Jining.Li@xjtlu.edu.cn)
+
+## 龚善星
+
+<img src="https://www.xjtlu.edu.cn/assets/images/students/Shanxing-Gong.jp" width="20%" style="display: block; margin: auto;">
+
+龚善星在中国武汉华中农业大学取得学士学位，专业为植物保护，学习内容主要关于害虫综合治理（IPM）。他的本科毕业课题主要关于害虫的物理防治。
+
+他在纽约州立大学石溪分校（石溪大学，SBU）取得硕士学位，专业为生态与进化。我的硕士毕业课题为关于湿地生态修复的meta分析。
+
+他博士现阶段的研究课题为“景观变化对农田节肢动物多样性以及生物防治的影响”。
+
+邮箱: [Shanxing.Gong19@student.xjtlu.edu.cn](mailto:Shanxing.Gong19@student.xjtlu.edu.cn)
+
+## 石晓宇
+
+<img src="https://www.xjtlu.edu.cn/assets/images/students/Xiaoyu-Shi.jp" width="20%" style="display: block; margin: auto;">
+
+石晓宇在西交利物浦大学环境科学系取得了他的本科学位。他之后在伦敦大学学院地理系取得了硕士学位。
+
+他目前的研究对象是中国传粉昆虫所受到的威胁以及相应的传粉昆虫保护。
+
+邮箱: [Xiaoyu.Shi18@student.xjtlu.edu.cn](mailto:Xiaoyu.Shi18@student.xjtlu.edu.cn)
+
+
+
+## 缪擎天
+
+<img src="https://www.xjtlu.edu.cn/assets/images/students/Miao-Qingtian.jp" width="20%" style="display: block; margin: auto;">缪擎天从香港科技大学获得了环球中国研究硕士学位，本科就读于并瑞士的洛桑酒店管理学校国际酒店管理专业。
+
+她目前的研究是在中国医疗互动中相互信任的共同形成。这项研究旨在研究病人在急诊科就诊时的可信度及其实际运用。
+
+邮箱: [Qingtian.Miao19@student.xjtlu.edu.cn](mailto:Qingtian.Miao19@student.xjtlu.edu.cn)
+
+
+
+## 林巧燕
+
+<img src="https://www.xjtlu.edu.cn/assets/images/students/Qiaoyan-Lin.jp" width="20%" style="display: block; margin: auto;">
+
+2011年7月，林巧燕于中国科学院西北高原生物研究所获全球变化生态学专业硕士学位。目前，她主要研究综合的河流生态修复策略，探究生态修复过程中水生动物·微生物以及生态系统功能的变化。
+
+邮箱：[Qiaoyan.lin@xjtlu.edu.cn](mailto:Qiaoyan.lin@xjtlu.edu.cn)
+
+
+
+
+
+## LUKAS FLORIAN MELDAU
+
+<img src="https://www.xjtlu.edu.cn/assets/images/students/Lukas-Florian-Meldau.jp" width="20%" style="display: block; margin: auto;">Lukas 拥有德国格奥尔格-奥古斯特-大学哥廷根分校的"地理：资源分析和资源管理"理学硕士学位和地理学学士学位。
+
+他的研究旨在研究大气稳定性对奥多利亚运输的影响。目的是利用风洞模拟，研究热和沉积分层对风场和艾奥利亚运输的影响，并加强对两相流理论的理解。
+
+邮箱：[L.Meldau19@student.xjtlu.edu.cn](mailto:L.Meldau19@student.xjtlu.edu.cn)
+
+## ANJUMUNNISA
+
+<img src="https://www.xjtlu.edu.cn/assets/images/students/Anjumunnisa.jp" width="20%" style="display: block; margin: auto;">Anjum 获得了医学学士学位和儿科医学硕士学位。她曾在苏州大学附属第一医院和苏州儿童医院接受培训，现正在西交利物浦大学公共卫生系攻读公共卫生学博士学位。
+
+她目前的研究涉及苏州儿童医院血液科的一项临床试验，主要关注儿童癌症对儿童和家庭的影响。
+
+邮箱：[Anjumunnisa.M@xjtlu.edu.cn](mailto:Anjumunnisa.M@xjtlu.edu.cn)
+
+
+
+## ALEX DENTON
+
+<img src="https://www.xjtlu.edu.cn/assets/images/students/Alex-Denton.jp" width="20%" style="display: block; margin: auto;">
+
+Alex 在获得埃克塞特大学自然保护与生物多样性硕士学位之前，获得了斯旺西大学的动物学学士学位。在XJTLU开始攻读博士学位课程之前，他曾在英国讲学，并为南非多个组织开展生态研究和教育推广工作。
+
+他目前的项目侧重于无脊椎动物群落生态学，研究草原毛毛虫（Gynaephora）与青藏高原放牧者之间的相互作用。
+
+邮箱：[A.Denton19@student.xjtlu.edu.cn](mailto:A.Denton19@student.xjtlu.edu.cn)
+
+
+
+## 孙博坤
+
+<img src="https://www.xjtlu.edu.cn/assets/images/students/Bokun-Sun%20.jp" width="20%" style="display: block; margin: auto;">
+
+孙博坤本科毕业于西交利物浦大学（XJTLU）和利物浦大学的电气工程专业，硕士毕业于谢菲尔德大学环境与能源工程专业。
+
+他目前的研究题目是在不同气象条件下城市灌木对PM2.5干沉降的影响。
+
+邮箱：[Bokun.Sun19@student.xjtlu.edu.cn](mailto:Bokun.Sun19@student.xjtlu.edu.cn)
+
+
+
+## 张厦
+
+<img src="https://www.xjtlu.edu.cn/assets/images/students/Sha-Zhang.jp" width="20%" style="display: block; margin: auto;">
+
+张厦获得了中国科学院土壤科学研究所环境科学领域的第一个硕士学位，并获得了美国特拉华大学的植物科学领域的第二个硕士学位。本科毕业于河南工业大学环境工程系。
+
+厦致力于在不断变化的环境中研究砷和镉等有毒元素的生物地球化学。 为了拓宽对元素行为和不同尺度驱动力的理解，多种技术和方法被用来估算环境干扰的影响。
+
+邮箱：[Sha.Zhang19@student.xjtlu.edu.cn](mailto:Sha.Zhang19@student.xjtlu.edu.cn)
+
+## 李丹
+
+<img src="https://www.xjtlu.edu.cn/assets/images/students/dan-li.jp" width="20%" style="display: block; margin: auto;">
+
+我本科毕业于苏州科技大学的地理信息系统专业，硕士毕业于西交利物浦大学的城市规划专业。但这一点都不无关紧要。实际上，它们为我打开了视野，提高了我的技能，尤其是在诸如数据结构和计算技术等领域，以捕获，表示，处理和分析地理信息，并培养了我从多元化的角度对社会、经济、生态全面整合的理性思考能力。
+
+毕业之后，我继续留在了西交利物浦大学的校级研究院，城市与环境研究中心。通过一年的工作经验研究城市的可持续发展与环境问题，利用自己的学术背景去探讨环境生态与社会发展的关系与平衡，更加理解了社会发展的前进道路与困难。
+
+现在我的博士研究课题为“生物多样性保护和人类生态系统服务之间的权衡和协同作用”。该研究旨在对区域地理特征、生物多样性、当前土地利用和当前为人类提供的服务的变化进行空间量化，致力于造福于人类。
+
+## 曾煜
+
+<img src="https://www.xjtlu.edu.cn/assets/images/students/yu-zeng.jp" width="20%" style="display: block; margin: auto;">
+
+我在位于中国黑龙江省哈尔滨市的东北林业大学获得了我的本科（野生动物峪自然保护区管理专业）和硕士学历（动物学专业），主要研究方向为鸟类行为与形态，着重于鸟类鸣声的研究。我用留居与迁徙种群斑背大尾莺的鸣唱作为引物，来研究该鸟种迁徙种群的反应强度。同时也利用形态学和DNA技术对白头鹎和领雀嘴鹎进行性别鉴定。
+
+博士阶段的研究方向是“城市化与群落结构：生境迁移对鸟类种群间的竞争与捕食的影响”，目的是为了研究生境迁移是如何影响不同鸟种之间的竞争与相互作用，以及鸟类对昆虫的捕食率。
+
+## 刘书畅
+
+<img src="https://www.xjtlu.edu.cn/assets/images/students/shuchang-liu.pn" width="20%" style="display: block; margin: auto;">
+
+本科毕业于武汉轻工大学，被授予工学学士学位。专业是食品科学与工程。
+
+硕士毕业于英国诺丁汉大学，被授予理学硕士学位。专业是营养科学。硕士毕业论文标题是“调查中国的日常奶茶摄入量以及探索潜在的健康配方”。
+
+研究项目：博士的主要研究课题是“中国西部哺乳妇女碘状况和母乳碘含量的评估”。
+
+## ETIENNE JAIME
+
+<img src="https://www.xjtlu.edu.cn/assets/images/students/Etienne-Jaime.jp" width="20%" style="display: block; margin: auto;">
+
+我在德州爱丁堡的德克萨斯泛美大学(现在的UTRGV)获得了理学学士学位。我学士学位的专业是生物和生物医学科学。此外，我还修完了化学和法语两个辅修课程。
+
+我获得了我的公共卫生硕士学位北德克萨斯大学-健康科学中心在沃斯堡，得克萨斯州。我的硕士学位专注于行为和社区健康，专业是全球健康。我的硕士学位的最高项目是对安全套使用障碍进行分析，并使用基于社区的参与性研究方法和护理小组方法开发寨卡病毒预防干预措施。我的项目是由美国国际开发署资助的。
+
+我博士的主要项目是"改善大学生心理和性健康状况的亲社会行为，以及调解文化因素"。
+
+## 蔡玉佳
+
+<img src="https://www.xjtlu.edu.cn/assets/images/students/Yujia-Cai.jp" width="20%" style="display: block; margin: auto;">
+
+玉佳在深圳大学获得学士学位。她的本科专业是环境工程。她本科的最后一个项目是关于持久性有机污染物(POPs)的分布。
+之后她在中国科学院生态环境科学研究中心环境工程专业硕士学位，她的硕士研究是利用分子生物学技术研究土壤硝酸盐的转化和命运。
+现在她博士研究的方向是“有机污染土壤的修复:微生物燃料电池和水管理的双重作用”
+
+
+
+## 陈思好
+
+<img src="https://www.xjtlu.edu.cn/assets/images/students/Sihao-Chen.jp" width="20%" style="display: block; margin: auto;">
+
+思浩在博士期间的研究方向为城市理论、生态进化理论、地理学和科学技术研究。他目前的研究重点是城市化对一种重要的生物和生态指标——家燕(Hirundo rustica)的影响。思好的本科就读于天津城建大学的风景园林专业，并于2020年获得加拿大圭尔夫大学风景园林硕士学位。在攻读博士学位之前，他从事了三年的城市规划师和景观设计师工作，与中国和加拿大的地方政府、非政府组织和国际机构合作。

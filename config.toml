@@ -15,6 +15,9 @@ copyright = "&copy; Department of Health and Environmental Sciences, XJTLU"
 category = "categories"
 tag = "tags"
 
+# Default language to use (if you setup multilingual support)
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 
 [params]
   description = "Website of Department of Health and Environmental Sciences, XJTLU"
@@ -165,3 +168,150 @@ tag = "tags"
       name = "About"
       url = "/about"
       weight = 120
+      
+  [[menu.main]]
+      name = "中文"
+      url = "/zh"
+      weight = 130
+
+# 中文界面
+
+[languages.zh.params]
+  description = "Website of Department of Health and Environmental Sciences, XJTLU"
+  author = "Peng Zhao"
+  email = "someone@xjtlu.edu.cn"
+  address = "中国江苏省苏州市工业园区崇文路 8 号新兴科学楼，邮编 215123"
+
+  slogan = "HES"
+  slogan_text = "健康与环境科学系"
+
+
+  [[languages.zh.params.slogan_columns]]
+    title = "我们的"
+    text = "- 教师 [link](/zh/#members)  \n- 支持团队 [link](/zh/post/support_team)  \n- 博士生 [link](/zh/post/students/)  \n- 校友 [link](/zh/post/alumni)"
+    weight = 1
+
+  [[languages.zh.params.slogan_columns]]
+    title = "工作"
+    text = "- 科研 [link](/zh/#projects)  \n- 论文 [link](/zh/#publications) \n- 项目 [link](/zh/post/projects)  \n- 教学 [link](/zh/post/module)"
+    weight = 2
+    
+  [[languages.zh.params.slogan_columns]]
+    title = "和其他"
+    text = "- 新闻 [link](/zh/post)  \n- 活动 [link](/zh/post/events)  \n- 实验室 [link](https://heslab.pzhao.org/)  \n- 关于 [link](/zh/about)  \n- 联系我们 [link](/zh/#contact)"
+    weight = 3
+
+  # Selected Publications section.
+  [languages.zh.params.publications_selected]
+    detailed_list = true
+    title = "Selected Publications"
+    subtitle = ""
+
+  # Publications section.
+  # Section will only be displayed if there are publications in `content/publication/`.
+  [languages.zh.params.publications]
+    count = 6
+    detailed_list = false
+    title = "论文"
+    subtitle = ""
+    str_all = "更多论文"
+
+  # Posts section.
+  # Section will only be displayed if there are posts in `content/post/`.
+  [languages.zh.params.posts]
+    count = 6
+    title = "新闻"
+    subtitle = ""
+    str_all = "更多新闻"
+    str_read_more = "Read more"
+    url = "/zh/post"
+
+  # Projects section.
+  # Section will only be displayed if there are projects in `content/project/`.
+  [languages.zh.params.projects]
+    title = "科研"
+    subtitle = ""
+    count = 7
+    str_all = "更多科研"
+  
+  # Vacancies section
+  # Section will only be displayed if there are valid vacancies in `content/vacancy`
+  [languages.zh.params.vacancies]
+    title = "Vacancies"
+    subtitle = ""
+    count = 3
+    str_all = "More Vacancies"
+
+  # Contact section.
+  [languages.zh.params.contact]
+    enable = true
+    title = "联系我们"
+    subtitle = ""
+    autolink = false  # Automatically link email and phone?
+
+  [[languages.zh.menu.main]]
+      name = "首页"
+      url = "/zh/#top"
+      weight = 10
+
+  [[languages.zh.menu.main]]
+      name = "科研"
+      url = "/zh/#projects"
+      weight = 20
+
+  [[languages.zh.menu.main]]
+      name = "论文"
+      url = "/zh/publication"
+      weight = 30
+
+  [[languages.zh.menu.main]]
+      name = "教学"
+      url = "/zh/post/module"
+      weight = 40
+      
+  [[languages.zh.menu.main]]
+      name = "师资"
+      url = "/zh/#members"
+      weight = 50
+
+#  [[languages.zh.menu.main]]
+#      name = "Students"
+#      url = "/post/students"
+#      weight = 60
+      
+#  [[languages.zh.menu.main]]
+#      name = "Alumni"
+#      url = "/post/alumni"
+#      weight = 70
+
+  [[languages.zh.menu.main]]
+      name = "新闻"
+      url = "/zh/post"
+      weight = 80
+
+#  [[languages.zh.menu.main]]
+#      name = "Lab"
+#      url = "https://heslab.pzhao.org/"
+#      weight = 90
+
+#  [[languages.zh.menu.main]]
+#      name = "Contact"
+#      url = "/#contact"
+#      weight = 110
+      
+  [[languages.zh.menu.main]]
+      name = "简介"
+      url = "/zh/about"
+      weight = 120
+
+  [[languages.zh.menu.main]]
+      name = "English"
+      url = "/"
+      weight = 130
+
+# Configure the English version of the website.
+[languages.en]
+  languageCode = "en-us"
+
+[languages.zh]
+  languageCode = "zh-cn"
