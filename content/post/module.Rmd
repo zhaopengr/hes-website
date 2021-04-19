@@ -8,7 +8,9 @@ authors:
 ```{r, echo=FALSE}
 source("../../R/functions.R")
 module <- read_mdtable(mdfile = "../../static/database/module.md", skip = 0)
-DT::datatable(module)
+module$Leader <- convert_id2link(staff_id = module$Leader)
+module$Involved <- convert_id2link(staff_id = module$Involved)
+DT::datatable(module, escape = FALSE)
 ```
 
 [See more modules](https://www.xjtlu.edu.cn/en/study/undergraduate/environmental-science).

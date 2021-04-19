@@ -7,6 +7,7 @@ authors:
 
 ```{r, echo=FALSE}
 source("../../R/functions.R")
-project <- read_mdtable(mdfile = "../../static/database/alumni.md", skip = 0)
-DT::datatable(project)
+alumni <- read_mdtable(mdfile = "../../static/database/alumni.md", skip = 0)
+alumni$Supervisor <- convert_id2link(staff_id = alumni$Supervisor)
+DT::datatable(alumni, escape = FALSE)
 ```
