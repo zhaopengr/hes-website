@@ -5,7 +5,16 @@ title = "Support team"
     id = "Zhao.Peng"
 +++
 
-## Technicians
+## Secretary
+
+### DING, Yu
+
+- Introduction
+- Office:
+- Telephone:
+- Email:
+
+## Lab Manager
 
 ### ZHOU, Xiao
 
@@ -13,6 +22,9 @@ title = "Support team"
 - Office:
 - Telephone:
 - Email:
+
+
+## Lab Technicians
 
 ### CHENG, Yili
 
@@ -28,9 +40,7 @@ title = "Support team"
 - Telephone:
 - Email:
 
-## Secretary
-
-### DING, Yu
+### JIANG, Wen
 
 - Introduction
 - Office:
