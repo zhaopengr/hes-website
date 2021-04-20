@@ -5,8 +5,8 @@ external_link = ""
 image = ""
 picture = ""
 project_id = "p001"
-short_description = "大气颗粒物表面吸附的有机塑料添加剂的降解"
-title = "博士生科研奖学金项目（PGRS 2021 韩）"
+short_description = "博士生科研奖学金项目（PGRS 2021 韩）"
+title = "大气颗粒物表面吸附的有机塑料添加剂的降解"
 [[participants]]
     id = "Han.Lei"
 [[participants]]

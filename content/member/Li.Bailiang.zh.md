@@ -26,6 +26,16 @@ title = "李柏良"
 
 +++
 
+<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
+
+------
+### 研究团队
+
+- 宁清钱: Qingqian.Ning@xjtlu.edu.cn
+- 卢卡斯: L.Meldau19@student.xjtlu.edu.cn
+- 孙博坤: Bokun.Sun19@student.xjtlu.edu.cn
+
+
 ### Profile
 
 Dr Bailiang Li obtained a PhD in Geography at Texas A&amp;M University, USA. His primary research field is aeolian processes. He also has other research interests in air pollution and GIS and remote sensing applications.
@@ -51,10 +61,10 @@ Dr Bailiang Li obtained a PhD in Geography at Texas A&amp;M University, USA. His
 <ul> <li> ENV206 Environmental Science Field Skills, Module Leader </li><li> ENV101 GIS and Research Skills, Module Leader </li> </ul>
 
 
-### Contact:
+### 联系方式:
 
- - Email: Bailiang.Li@xjtlu.edu.cn
+ - 电邮: Bailiang.Li@xjtlu.edu.cn
 
- - Telephone: +86 (0)512 0512-81880472
+ - 电话: +86 (0)512 0512-81880472
 
- - Address: Department of Environmental Science<br> Emerging and Interdiciplinary Science Building (ES) 408<br> Xi'an Jiaotong-Liverpool University<br> 111 Ren'ai Road<br> Suzhou Dushu Lake Science and Education Innovation District<br> Suzhou Industrial Park<br> Suzhou<br> P. R. China<br> 215123<br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
+ - 地址: Department of Environmental Science<br> Emerging and Interdiciplinary Science Building (ES) 408<br> Xi'an Jiaotong-Liverpool University<br> 111 Ren'ai Road<br> Suzhou Dushu Lake Science and Education Innovation District<br> Suzhou Industrial Park<br> Suzhou<br> P. R. China<br> 215123<br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>

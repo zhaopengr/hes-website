@@ -5,8 +5,8 @@ external_link = ""
 image = ""
 picture = ""
 project_id = "p003"
-short_description = "The impact of changing landscapes on arthropod diversity and biological pest control in agro-ecosystem"
-title = "PGRS 2019 Zou"
+short_description = "PGRS 2019 Zou"
+title = "The impact of changing landscapes on arthropod diversity and biological pest control in agro-ecosystem"
 [[participants]]
     id = "Zou.Yi"
 +++

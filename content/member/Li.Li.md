@@ -14,7 +14,7 @@ title = "LI, Li"
     icon_pack = "fa"
     link = "mailto:Li.Li01@xjtlu.edu.cn"
 [[organizations]]
-    name = "Dr. rer. nat"
+    name = "Dr. rer. nat."
     role = "Assistant Professor"
 
 [[education]]
@@ -26,9 +26,14 @@ title = "LI, Li"
 
 +++
 
+<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
+
+------
+
+
 ### Profile
 
-Li Li is a landscape ecologist whose research interests relate to the human aspects of biodiversity conservation. Li obtained her PhD from the University of Freiburg in Germany, then was a postdoctoral fellow at the Center for Nature and Society of Peking University. Her previous studies focused on land-use change and its ecological consequences on the eastern Qinghai-Tibetan Plateau. Her current research investigates the adaptations of local communities to environmental changes. Li's research aims to facilitate the mainstreaming of biodiversity and Nature-based Solutions to China’s agricultural and ecological-restoration policies. <br>
+Li Li is a landscape ecologist at XJTLU, whose research interests relate to the human aspects of biodiversity conservation. Her previous studies focused on land-use change and its ecological consequences on the eastern Qinghai-Tibetan Plateau. Her current research investigates the adaptations of local communities – including nomadic groups – to environmental changes. Li's research aims to mainstream and integrate biodiversity and Nature-based Solutions into China’s agricultural and ecological-restoration policies. Li obtained her PhD from the University of Freiburg in Germany, then was a postdoctoral fellow at the Center for Nature and Society of Peking University.<br>
 
 ###  Experience
 

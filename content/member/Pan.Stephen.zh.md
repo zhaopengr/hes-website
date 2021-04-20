@@ -26,6 +26,14 @@ title = "潘长浩"
 
 +++
 
+<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
+
+------
+### 研究团队
+
+- 杰米: /
+
+
 ### Profile
 
 Stephen Pan is a social and behavioral epidemiologist. Dr. Pan's research focuses on policies and social and cultural processes that impact public health, particularly among minority populations. Substantive areas of research have included HIV/STI prevention, unintentional injury, mental health, and healthcare preferences. Dr. Pan has received funding support from the US National Institutes of Health, the US Fulbright Commission, the Canadian Institutes of Health Research, and the government in Taiwan. Dr. Pan has been conducting public health research in China for over ten years, and previously worked as a regional epidemiologist and HIV/STD disease intervention specialist in the United States. He teaches modules on epidemiology and public health program evaluation.
@@ -55,10 +63,10 @@ Stephen Pan is a social and behavioral epidemiologist. Dr. Pan's research focuse
 <ul> <li> Society for Epidemiologic Research </li><li> Delta Omega Honorary Society in Public Health </li><li> American Public Health Association </li><li> Society of Behavioral Medicine </li><li> International AIDS Society </li><li> International Academy of Health Preference Research </li> </ul>
 
 
-### Contact:
+### 联系方式:
 
- - Email: Stephen.Pan@xjtlu.edu.cn
+ - 电邮: Stephen.Pan@xjtlu.edu.cn
 
- - Telephone: +86 (0)512 0512-8816-4629
+ - 电话: +86 (0)512 0512-8816-4629
 
- - Address: <br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
+ - 地址: <br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>

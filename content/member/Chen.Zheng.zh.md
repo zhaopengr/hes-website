@@ -26,6 +26,15 @@ title = "陈正"
 
 +++
 
+<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
+
+------
+### 研究团队
+
+- 张厦: Sha.Zhang19@student.xjtlu.edu.cn
+- 袁召锋: /
+
+
 ### Profile
 
 I am an environmental chemist and fascinated by the microbes mediated extracellular electron transfer. This is a phenomenon happening in any soils, especially flooded lands.  It is still a labyrinth but known to significantly impact the translocation and transformation of many pollutants, e.g. heavy metals, and petroleum.  Our labs are well equipped with state-of-art analytical instruments. We are also keen to develop our tools to resolve the processes in real soil/sediment system. <br>Contact me by emails if you are interested in joining us. <br>
@@ -59,10 +68,10 @@ I am an environmental chemist and fascinated by the microbes mediated extracellu
 <ul> <li> 2013 A survey of rare earth elements distribution in the origin areas of Gan River and Pearl River., National Geographic Air and Water Conservation Fund </li><li> 2010 Intellectual Ventures Invention Award, Intellectual Ventures Company </li><li> 2008 Japanese Government Scholarship, The Ministry of Education, Culture, Sports, Science, and Technology, Japan </li><li> 2005 The Internship Programme Award, UNU &amp; GIST Joint Programme on Science and Technology for Sustainability </li><li> 2004 Graduate Scholarship Award, Research Center for Eco-Environmental Sciences, Chinese Academy of Sciences </li> </ul>
 
 
-### Contact:
+### 联系方式:
 
- - Email: Zheng.Chen@xjtlu.edu.cn
+ - 电邮: Zheng.Chen@xjtlu.edu.cn
 
- - Telephone: +86 (0)512 0512-81880471
+ - 电话: +86 (0)512 0512-81880471
 
- - Address: university building-room number: ES327<br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
+ - 地址: university building-room number: ES327<br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>

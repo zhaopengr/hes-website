@@ -1,20 +1,21 @@
-| Name                  | Name_zh  | Contact                              | Enter | Supervisor                |
-| --------------------- | -------- | ------------------------------------ | ----- | ------------------------- |
-| NING, Qingqian        | 宁清钱   | Qingqian.Ning@xjtlu.edu.cn           | 2017  | STAFF.Li.Bailiang         |
-| FAGHIHINIA, Maede     | 梅德     | Maede.Faghihinia@xjtlu.edu.cn        | 2019  | STAFF.                    |
-| LI, Jining            | 李季宁   | Jining.Li@xjtlu.edu.cn               | 2019  | STAFF.                    |
-| GONG, Shanxing        | 龚善星   | Shanxing.Gong19@student.xjtlu.edu.cn | 2019  | STAFF.Zou.Yi              |
-| SHI, Xiaoyu           | 石晓宇   | Xiaoyu.Shi18@student.xjtlu.edu.cn    | 2019  | STAFF.Zou.Yi              |
-| MIAO, Qingtian        | 缪擎天   | Qingtian.Miao19@student.xjtlu.edu.cn | 2019  | STAFF.                    |
-| LIN, Qiaoyan          | 林巧燕   | Qiaoyan.lin@xjtlu.edu.cn             | 2019  | STAFF.                    |
-| MELDAU, Lukas Florian | 卢卡斯   | L.Meldau19@student.xjtlu.edu.cn      | 2019  | STAFF.Li.Bailiang         |
-| ANJUMUNNISA           | 安筠     | Anjumunnisa.M@xjtlu.edu.cn           | 2019  | STAFF.                    |
-| DENTON, Alex          | 阿力克斯 | A.Denton19@student.xjtlu.edu.cn      | 2019  | STAFF.Knops.Johannes      |
-| SUN, Bokun            | 孙博坤   | Bokun.Sun19@student.xjtlu.edu.cn     | 2019  | STAFF.Li.Bailiang         |
-| ZHANG, Sha            | 张厦     | Sha.Zhang19@student.xjtlu.edu.cn     | 2019  | STAFF.Chen.Zheng          |
-| LI, Dan               | 李丹     | /                                    | 2019  | STAFF.Knops.Johannes      |
-| ZENG, Yu              | 曾煜     | /                                    | 2019  | STAFF.Nunez.Pagani.Emilio |
-| LIU, Shuchang         | 刘书畅   | /                                    | 2019  | STAFF.Ma.Feei.Zheng       |
-| ETIENNE, Jaime        | 杰米     | /                                    | 2019  | STAFF.Pan.Stephen         |
-| CAI, Yujia            | 蔡玉佳   | /                                    | 2019  | STAFF.                    |
-| CHEN, Sihao           | 陈思好   | /                                    | 2019  | STAFF.                    |
+| ID                   | Name                  | Contact                              | Entry | Exit | Position    | Update               | Supervisor                | Name_zh  | Update_zh |
+| -------------------- | --------------------- | ------------------------------------ | ----- | ---- | ----------- | -------------------- | ------------------------- | -------- | -------- |
+| Ning.Qingqian        | NING, Qingqian        | Qingqian.Ning@xjtlu.edu.cn           | 2017  | /    | PhD student | /                    | STAFF.Li.Bailiang         | 宁清钱   | /   |
+| Faghihinia.Maede     | FAGHIHINIA, Maede     | Maede.Faghihinia@xjtlu.edu.cn        | 2019  | /    | PhD student | /                    | STAFF.                    | 梅德     | /     |
+| Li.Jining            | LI, Jining            | Jining.Li@xjtlu.edu.cn               | 2019  | /    | PhD student | /                    | STAFF.                    | 李季宁   | /   |
+| Gong.Shanxing        | GONG, Shanxing        | Shanxing.Gong19@student.xjtlu.edu.cn | 2019  | /    | PhD student | /                    | STAFF.Zou.Yi              | 龚善星   | /   |
+| Shi.Xiaoyu           | SHI, Xiaoyu           | Xiaoyu.Shi18@student.xjtlu.edu.cn    | 2019  | /    | PhD student | /                    | STAFF.Zou.Yi              | 石晓宇   | /   |
+| Miao.Qingtian        | MIAO, Qingtian        | Qingtian.Miao19@student.xjtlu.edu.cn | 2019  | /    | PhD student | /                    | STAFF.                    | 缪擎天   | /   |
+| Lin.Qiaoyan          | LIN, Qiaoyan          | Qiaoyan.lin@xjtlu.edu.cn             | 2019  | /    | PhD student | /                    | STAFF.                    | 林巧燕   | /   |
+| Meldau.Lukas.Florian | MELDAU, Lukas Florian | L.Meldau19@student.xjtlu.edu.cn      | 2019  | /    | PhD student | /                    | STAFF.Li.Bailiang         | 卢卡斯   | /   |
+| Anjumunnisa          | ANJUMUNNISA           | Anjumunnisa.M@xjtlu.edu.cn           | 2019  | /    | PhD student | /                    | STAFF.                    | 安筠     | /     |
+| Denton.Alex          | DENTON, Alex          | A.Denton19@student.xjtlu.edu.cn      | 2019  | /    | PhD student | /                    | STAFF.Knops.Johannes      | 阿力克斯  |  / |
+| Sun.Bokun            | SUN, Bokun            | Bokun.Sun19@student.xjtlu.edu.cn     | 2019  | /    | PhD student | /                    | STAFF.Li.Bailiang         | 孙博坤   | /   |
+| Zhang.Sha            | ZHANG, Sha            | Sha.Zhang19@student.xjtlu.edu.cn     | 2019  | /    | PhD student | /                    | STAFF.Chen.Zheng          | 张厦     | /     |
+| Li.Dan               | LI, Dan               | /                                    | 2019  | /    | PhD student | /                    | STAFF.Knops.Johannes      | 李丹     | /     |
+| Zeng.Yu              | ZENG, Yu              | /                                    | 2019  | /    | PhD student | /                    | STAFF.Nunez.Pagani.Emilio | 曾煜     | /     |
+| Liu.Shuchang         | LIU, Shuchang         | /                                    | 2019  | /    | PhD student | /                    | STAFF.Ma.Feei.Zheng       | 刘书畅   | /   |
+| Etienne.Jaime        | ETIENNE, Jaime        | /                                    | 2019  | /    | PhD student | /                    | STAFF.Pan.Stephen         | 杰米     | /     |
+| Cai.Yujia            | CAI, Yujia            | /                                    | 2019  | /    | PhD student | /                    | STAFF.                    | 蔡玉佳   | /   |
+| Chen.Sihao           | CHEN, Sihao           | /                                    | 2019  | /    | PhD student | /                    | STAFF.                    | 陈思好   | /   |
+| Yuan.Zhaofeng        | YUAN, Zhaofeng        | /                                    | 2017  | 2020 | PhD student | 2021: Zhejiang Univ. | STAFF.Chen.Zheng          | 袁召锋   |  2021: 浙江大学 |

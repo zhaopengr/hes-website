@@ -11,11 +11,12 @@ Sys.setlocale("LC_CTYPE", "Chinese")
 
 ```{r, echo=FALSE}
 source("../../R/functions.R")
-alumni <- read_mdtable(mdfile = "../../static/database/alumni.md", skip = 0)
+alumni <- read_mdtable(mdfile = "../../static/database/students.md", skip = 0)
+alumni$Position_zh <- ifelse(alumni$Position == "PhD student", "博士生", "")
+alumni <- alumni[alumni$Exit != "/", c("Name_zh", "Position_zh", "Entry", "Exit", "Supervisor", "Update_zh", "Contact")]
+rownames(alumni) <- 1:nrow(alumni)
 alumni$Supervisor <- convert_id2link(staff_id = alumni$Supervisor, language = "zh")
-alumni <- alumni[, c("Name_zh", "Position_zh", "Enter", "Leave", "Supervisor", "Currently_zh")]
-
 DT::datatable(alumni, escape = FALSE, 
-              colnames = c("姓名", "身份", "加入时间", "离开时间", "导师", "目前状况"),
+              colnames = c("姓名", "身份", "加入时间", "离开时间", "导师", "目前状况", "联系方式"),
               options = list(lengthMenu = c(nrow(alumni), 5, 10)))
 ```

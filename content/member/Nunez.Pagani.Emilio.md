@@ -26,6 +26,14 @@ title = "NUNEZ, Emilio Pagani"
 
 +++
 
+<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
+
+------
+### Research Team
+
+- ZENG, Yu: /
+
+
 ### Profile
 
 I'm a field ornithologist with broad interests in ecology, evolution and behavior. My research spans from individuals to communities and ecosystems. Lately, I'm becoming increasingly interested in studying the impact that human activities have on nature and in investigating ways in which these impacts can be minimized. <br>My previous two projects investigated the impact that habitat transformation has on niches of passerine assemblages and on the breeding ecology of Barn Swallows. Currently, I aim to study how habitat transformation shapes intra- and inter-specific competition and how this influences predation rates from birds to insects.<br><br>Check my profiles:<br>Google Scholar: <br>https://scholar.google.com/citations?hl=en&user=EZ1R7FQAAAAJ<br>Research Gate:<br>https://www.researchgate.net/profile/Emilio_Pagani-Nunez2<br>XJTLU Campus nests live streaming:<br>https://live.bilibili.com/22961767<br><br>我是一个鸟类学家，对生态学、演化生物学和行为学有着广泛的兴趣。我主要以鸟类为研究对象，研究尺度覆盖个体、种群、群落和生态系统。最近，我的主要研究兴趣在于探究人类活动如何影响不同尺度的自然生物？如何使人类活动对各个尺度的自然生物格局的影响最小化？我之前的两个项目研究了栖息地变化对雀形目鸟类生态位以及家燕的繁殖特征的影响。目前，我的主要目标是研究栖息地变化如何影响物种的种内和种间竞争？以及鸟类对昆虫的捕食率如何受到栖息地变化的影响？

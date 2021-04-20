@@ -26,6 +26,15 @@ title = "邹怡"
 
 +++
 
+<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
+
+------
+### 研究团队
+
+- 龚善星: Shanxing.Gong19@student.xjtlu.edu.cn
+- 石晓宇: Xiaoyu.Shi18@student.xjtlu.edu.cn
+
+
 ### Profile
 
 My research focuses on biodiversity and landscape ecology. In particular​, I am interested in how arthropod diversity response to environmental changes, and how living landscapes influence ecosystem services (e.g. pollination and biological pest control), food security and farmer incomes.
@@ -63,10 +72,10 @@ My research focuses on biodiversity and landscape ecology. In particular​, I a
 <ul> <li> 2018 Outstanding Educator of Suzhou </li><li> 2018 Suzhou SIP Dushu Lake Higher Education Town “SEID Key Educator” </li><li> 2017 Jiangsu Province Innovation & Entrepreneurship Talent Program, Jiangsu Province Department of Education </li> </ul>
 
 
-### Contact:
+### 联系方式:
 
- - Email: YI.ZOU@xjtlu.edu.cn
+ - 电邮: YI.ZOU@xjtlu.edu.cn
 
- - Telephone: +86 (0)512 81880473 
+ - 电话: +86 (0)512 81880473 
 
- - Address: ES 347<br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
+ - 地址: ES 347<br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>

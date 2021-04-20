@@ -28,6 +28,14 @@ title = "MA, Zheng Feei"
 
 +++
 
+<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
+
+------
+### Research Team
+
+- LIU, Shuchang: /
+
+
 ### Profile
 
 Nutrient requirements during different stages of the human life cycle (including  pregnancy, infancy, childhood, adolescence, adulthood, middle age, and senior years) vary considerably. As a public health nutritionist, Dr Ma conducts research on life cycle nutrition (including special nutritional needs, physiology, and health concerns of pregnant and lactating women, infants, children, adolescents, adults, and older adults), with a focus on understanding population and individual health, relevant for developed and developing countries. In addition, his varied background with experience in public health and medical science allows him to tackle research problems with a multi-disciplined approach.<br><br>Dr Ma has a BSc in Food Science & Nutrition (with honours) from Universiti Malaysia Sabah, Malaysia, a MSc (MedSci) in Human Nutrition with Public Health Nutrition specialisation from the University of Glasgow in Scotland, UK, and a PhD in Human Nutrition from the University of Otago, New Zealand. He completed a Postdoctoral Fellowship in Medical Science in the section of Gastroenterology and Hepatology at the School of Medical Sciences, Universiti Sains Malaysia. <br><br>He has been involved in many funded projects, of which 3 as a Principal Investigator (PI). His research output summarises in many peer-reviewed publications in international high profile journals , numerous conference contributions and book chapters. He is an Associate Editor for BMC Public Health (Global Health section), a Fellow of the Royal Society for Public Health (FRSPH) (UK), a Registered Associate Nutritionist (ANutr) of the Association for Nutrition (UK), a Full Member of the British Nutrition Society (UK), and an Associate Member of the American Society for Nutrition (ASN). In addition, he was one of the founding members of the Health and Sustainability Innovation (HSI) Lab, Health Technologies University Research Centre (HT-URC), Xi’an Jiaotong-Liverpool University, Suzhou, China. <br><br><br>

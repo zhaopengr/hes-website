@@ -26,6 +26,11 @@ title = "赵鹏"
 
 +++
 
+<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
+
+------
+
+
 ### Profile
 
 Dr. Peng Zhao holds a Ph.D. in Geoecology (University of Bayreuth), a M.Sc. in Environmental Sciences (Peking University), and a B.Sc. in Chemistry (Peking University). He worked as an assistant research scientist at the Chinese Academy of Meteorological Sciences, a post-doc at the Institute of Ecology, University of Innsbruck, and a post-doc at the Max Planck Institute of Chemistry, before he joined Xi'an Jiaotong-Liverpool University in 2020.<br><br>His research focuses on the ecosystem-atmosphere interaction as well as the cycles and transformations of atmospheric pollutants, especially carbon and nitrogen compounds.<br><br>He teaches the module "Statistics for Environmental Scientists" and "Methods for Analysing Public Health IV: Working in the Field: Data". Before he joined Xi'an Jiaotong-Liverpool University, he taught "R, Open Science, and Reproducible Research" at the Max Planck Institute for Chemistry, and "Routine Observation of Atmosphere" at the Chinese Academy of Meteorological Sciences.<br><br>He published the book "Learning R" (in Chinese).<br><br>More details can be found on his personal website: pzhao.org
@@ -55,10 +60,10 @@ Dr. Peng Zhao holds a Ph.D. in Geoecology (University of Bayreuth), a M.Sc. in E
 <ul> <li> 2009 -- 2013, PhD Scholarship, German Research Foundation (DFG) </li><li> 2001, May-4th Scholarship, Peking University </li> </ul>
 
 
-### Contact:
+### 联系方式:
 
- - Email: Peng.Zhao@xjtlu.edu.cn
+ - 电邮: Peng.Zhao@xjtlu.edu.cn
 
- - Telephone: +86 (0)512 
+ - 电话: +86 (0)512 
 
- - Address: <br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
+ - 地址: <br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>

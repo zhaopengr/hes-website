@@ -14,17 +14,22 @@ title = "HAN, Lei"
     icon_pack = "fa"
     link = "mailto:Lei.Han@xjtlu.edu.cn"
 [[organizations]]
-    name = "Dr. rer. nat"
-    role = "Assistant Professor"
+    name = "Ph. D."
+    role = "Lecturer"
 
 [[education]]
-    course = "Dr. rer. nat, University of Bayreuth, Germany, -2013"
+    course = "Ph.D., University of Bayreuth, Germany, -2013"
 [[education]]
     course = "M. Sc., Peking University, China, -2005"
 [[education]]
     course = "B. Sc., Peking University, China, -2002"
 
 +++
+
+<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
+
+------
+
 
 ### Profile
 

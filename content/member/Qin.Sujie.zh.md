@@ -26,6 +26,11 @@ title = "秦素洁"
 
 +++
 
+<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
+
+------
+
+
 ### Profile
 
 Dr Sujie Qin got her PhD in Environmental Science at University of California, Riverside in 2007 and worked as Postdoc in Stanford University from 2008 to 2011. She joined in XJTLU in 2013. Currently, she is the module leader of ENV105 Environmental chemistry and ENV110 Environmental Pollution. In addition, she gets involved in some other modules including FYP supervision, ENV201 Research Design, ENV002 Global Environmental Issues etc.
@@ -59,10 +64,10 @@ Dr Sujie Qin got her PhD in Environmental Science at University of California, R
 <ul> <li> Highly commended for the outstanding teacher, 2019, XJTLU </li><li> First prize award, 4th XJTLU national university teaching innovation competition, 2019, XJTLU </li> </ul>
 
 
-### Contact:
+### 联系方式:
 
- - Email: Sujie.Qin@xjtlu.edu.cn
+ - 电邮: Sujie.Qin@xjtlu.edu.cn
 
- - Telephone: +86 (0)512 86-512-88160475
+ - 电话: +86 (0)512 86-512-88160475
 
- - Address: Department of Environmental Science Science Building SB565 Xi'an Jiaotong-Liverpool University 111 Ren'ai Road Suzhou Dushu Lake Science and Education Innovation District Suzhou Industrial Park Suzhou P. R. China 215123<br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
+ - 地址: Department of Environmental Science Science Building SB565 Xi'an Jiaotong-Liverpool University 111 Ren'ai Road Suzhou Dushu Lake Science and Education Innovation District Suzhou Industrial Park Suzhou P. R. China 215123<br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>

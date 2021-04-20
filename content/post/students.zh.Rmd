@@ -14,7 +14,7 @@ Sys.setlocale("LC_CTYPE", "Chinese")
 source("../../R/functions.R")
 students <- read_mdtable(mdfile = "../../static/database/students.md", skip = 0)
 students$Supervisor <- convert_id2link(students$Supervisor, language = "zh")
-students <- students[order(students$Name), c("Name_zh", "Contact", "Enter", "Supervisor")]
+students <- students[order(students$Name), c("Name_zh", "Contact", "Entry", "Supervisor")]
 row.names(students) <- 1:nrow(students)
 colnames(students) <- c("姓名", "联系方式", "入学时间", "导师")
 DT::datatable(students, escape = FALSE, 

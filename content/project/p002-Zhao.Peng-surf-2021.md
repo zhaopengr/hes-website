@@ -5,8 +5,8 @@ external_link = ""
 image = ""
 picture = ""
 project_id = "p002"
-short_description = "Development of an automatic controlling module for greenhouse gas online measurements"
-title = "SURF 2021 ZHAO"
+short_description = "SURF 2021 ZHAO"
+title = "Development of an automatic controlling module for greenhouse gas online measurements"
 [[participants]]
     id = "Zhao.Peng"
 [[participants]]

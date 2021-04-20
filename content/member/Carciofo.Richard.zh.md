@@ -22,6 +22,11 @@ title = "理查德·卡奇欧佛"
 
 +++
 
+<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
+
+------
+
+
 ### Profile
 
 <br>
@@ -43,10 +48,10 @@ title = "理查德·卡奇欧佛"
 <ul> <li> British Psychological Society  </li><li> Higher Education Academy  </li> </ul>
 
 
-### Contact:
+### 联系方式:
 
- - Email: Richard.Carciofo@xjtlu.edu.cn
+ - 电邮: Richard.Carciofo@xjtlu.edu.cn
 
- - Telephone: +86 (0)512 81883287
+ - 电话: +86 (0)512 81883287
 
- - Address: Xi'an<br>Jiaotong-Liverpool University <br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
+ - 地址: Xi'an<br>Jiaotong-Liverpool University <br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>

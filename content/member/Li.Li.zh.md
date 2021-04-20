@@ -26,6 +26,11 @@ title = "李黎"
 
 +++
 
+<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
+
+------
+
+
 ### Profile
 
 Li Li is a landscape ecologist at XJTLU, whose research interests relate to the human aspects of biodiversity conservation. Her previous studies focused on land-use change and its ecological consequences on the eastern Qinghai-Tibetan Plateau. Her current research investigates the adaptations of local communities – including nomadic groups – to environmental changes. Li's research aims to mainstream and integrate biodiversity and Nature-based Solutions into China’s agricultural and ecological-restoration policies. Li obtained her PhD from the University of Freiburg in Germany, then was a postdoctoral fellow at the Center for Nature and Society of Peking University.<br>
@@ -55,10 +60,10 @@ Li Li is a landscape ecologist at XJTLU, whose research interests relate to the 
 <ul> <li> Society of Conservation Biology (SCB) </li><li> International Association for Landscape Ecology (IALE), International </li> </ul>
 
 
-### Contact:
+### 联系方式:
 
- - Email: Li.Li01@xjtlu.edu.cn
+ - 电邮: Li.Li01@xjtlu.edu.cn
 
- - Telephone: +86 (0)512 81888373
+ - 电话: +86 (0)512 81888373
 
- - Address: Emerging & Interdisciplinary Science Building Room ES341<br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
+ - 地址: Emerging & Interdisciplinary Science Building Room ES341<br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>

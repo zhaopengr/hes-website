@@ -26,6 +26,11 @@ title = "袁林喜"
 
 +++
 
+<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
+
+------
+
+
 ### Profile
 
 Dr Linxi Yuan's research focused on Trace Element (eg. Selenium) Biofortification, Interaction between Trace Elements and Rhizopheric Microorganism, and Elemental Speciation Analysis. Till now, he has written two books, published two chapters, and edited two special issues on selenium biofortification. He has published a total of 102 papers, in which 35 articles were cited in SCI database and 28 proceeding papers were cited in EI database.  He functioned as secretariat leader to organize 2nd and 3rd International Conferences on Selenium in Environment and Human Health, and gave oral presentations at 4th, 5th and 6th International Conference on Selenium in Environment and Human Health as invited speaker. <br><br>Check my profile:<br>https://www.researchgate.net/profile/Yuan_Linxi<br><br>https://scholar.google.com/citations?user=_TErVoUAAAAJ&hl=zh-CN<br><br><br><br>
@@ -79,10 +84,10 @@ Dr Linxi Yuan's research focused on Trace Element (eg. Selenium) Biofortificatio
 <ul> <li> January 2020, 3rd Class prize for science and technology progresses by China National Light Industry Association, “Key technologies for Se biofortification on staple crops in China”, ranking 3rd </li><li> February 2020, 3rd Class prize for science and technology progresses in Guangxi, “Innovation and application on Se biofortification strategy in Guangxi”, ranking 4th </li><li> 2015, “Hundred Person Plan” Innovative Leading Talents in Hefei, Anhui, Approved by Leading Group of Talents Work in Hefei, Anhui; </li><li> 2013, 2013 “Ph.D. Agglomeration Program” in Jiangsu, Approved by Leading Office of Talents Work in Jiangsu; </li><li> 2012, Double Hundred Talents Program-Leading Talents in Science and Education in Suzhou, Jiangsu, Approved by Working Committee of Suzhou Industrial Park of the Communist Party of China and Suzhou Industrial Park management Committee; </li> </ul>
 
 
-### Contact:
+### 联系方式:
 
- - Email: Linxi.Yuan@xjtlu.edu.cn
+ - 电邮: Linxi.Yuan@xjtlu.edu.cn
 
- - Telephone: +86 (0)512 81889173
+ - 电话: +86 (0)512 81889173
 
- - Address: ES332, No 111 Ren ai Road, SIP, Suzhou, Xi'an Jiaotong-Liverpool University<br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
+ - 地址: ES332, No 111 Ren ai Road, SIP, Suzhou, Xi'an Jiaotong-Liverpool University<br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>

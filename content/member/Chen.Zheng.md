@@ -26,6 +26,15 @@ title = "CHEN, Zheng"
 
 +++
 
+<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
+
+------
+### Research Team
+
+- ZHANG, Sha: Sha.Zhang19@student.xjtlu.edu.cn
+- YUAN, Zhaofeng: /
+
+
 ### Profile
 
 I am an environmental chemist and fascinated by the microbes mediated extracellular electron transfer. This is a phenomenon happening in any soils, especially flooded lands.  It is still a labyrinth but known to significantly impact the translocation and transformation of many pollutants, e.g. heavy metals, and petroleum.  Our labs are well equipped with state-of-art analytical instruments. We are also keen to develop our tools to resolve the processes in real soil/sediment system. <br>Contact me by emails if you are interested in joining us. <br>

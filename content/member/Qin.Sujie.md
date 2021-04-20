@@ -26,6 +26,11 @@ title = "QIN, Sujie"
 
 +++
 
+<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
+
+------
+
+
 ### Profile
 
 Dr Sujie Qin got her PhD in Environmental Science at University of California, Riverside in 2007 and worked as Postdoc in Stanford University from 2008 to 2011. She joined in XJTLU in 2013. Currently, she is the module leader of ENV105 Environmental chemistry and ENV110 Environmental Pollution. In addition, she gets involved in some other modules including FYP supervision, ENV201 Research Design, ENV002 Global Environmental Issues etc.

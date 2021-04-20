@@ -26,6 +26,16 @@ title = "LI, Bailiang"
 
 +++
 
+<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
+
+------
+### Research Team
+
+- NING, Qingqian: Qingqian.Ning@xjtlu.edu.cn
+- MELDAU, Lukas Florian: L.Meldau19@student.xjtlu.edu.cn
+- SUN, Bokun: Bokun.Sun19@student.xjtlu.edu.cn
+
+
 ### Profile
 
 Dr Bailiang Li obtained a PhD in Geography at Texas A&amp;M University, USA. His primary research field is aeolian processes. He also has other research interests in air pollution and GIS and remote sensing applications.

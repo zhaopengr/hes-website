@@ -26,6 +26,14 @@ title = "PAN, Stephen"
 
 +++
 
+<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
+
+------
+### Research Team
+
+- ETIENNE, Jaime: /
+
+
 ### Profile
 
 Stephen Pan is a social and behavioral epidemiologist. Dr. Pan's research focuses on policies and social and cultural processes that impact public health, particularly among minority populations. Substantive areas of research have included HIV/STI prevention, unintentional injury, mental health, and healthcare preferences. Dr. Pan has received funding support from the US National Institutes of Health, the US Fulbright Commission, the Canadian Institutes of Health Research, and the government in Taiwan. Dr. Pan has been conducting public health research in China for over ten years, and previously worked as a regional epidemiologist and HIV/STD disease intervention specialist in the United States. He teaches modules on epidemiology and public health program evaluation.

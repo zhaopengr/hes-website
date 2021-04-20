@@ -26,6 +26,11 @@ title = "韩蕾"
 
 +++
 
+<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
+
+------
+
+
 ### Profile
 
 Dr Lei Han received her PhD in Atmospheric Science at University of Bayreuth in Germany. Her research area focuses on the degradation process of pesticides and other semi-volatile organic compound in the atmosphere. She is also interested in the health effect of atmospheric pollutants. 
@@ -47,10 +52,10 @@ Dr Lei Han received her PhD in Atmospheric Science at University of Bayreuth in 
 <ul> <li> 2017, Scholarship from the Max-Planck Society in Germany </li> </ul>
 
 
-### Contact:
+### 联系方式:
 
- - Email: Lei.Han@xjtlu.edu.cn
+ - 电邮: Lei.Han@xjtlu.edu.cn
 
- - Telephone: +86 (0)512 81889184 
+ - 电话: +86 (0)512 81889184 
 
- - Address: <br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
+ - 地址: <br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>

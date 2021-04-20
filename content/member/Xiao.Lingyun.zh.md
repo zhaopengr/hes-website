@@ -26,6 +26,11 @@ title = "肖凌云"
 
 +++
 
+<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
+
+------
+
+
 ### Profile
 
 I'm a field ecologist with a focus on wild mammal ecology and conservation in one of the biodiversity hotspots of China - the Tibetan Plateau.<br><br>Among all wildlife, large mammals probably present the greatest challenge to conservation. Because of their large home ranges and space needs, there is widespread debate on whether the conservation of large mammals should rely on spatially separating them from humans through protected areas, or on facilitating their long-term existence in human-dominated landscapes. Answers to this debate and an understanding of their particular contexts are urgently needed, given the projected increase in human resource needs in the coming decades and the resultant further increase in the threats facing wildlife. <br><br>My research started from the impact of human pastoral land use activities on an iconic large carnivore, the snow leopard (Panthera uncia) and its natural prey species. Currently my interest developed into several aspects: <br>1) Why some species survived better to dominant human land use activities while some failed? 2) The complex interactions (trophic, spatial and temporal) among wild ungulates and carnivores under the context of human land use. 3) Based on the interactions, what is the ecological function of large carnivores and herbivores? Especially for the less adaptive species, does it matter if they go extinct? 4) The impact of national laws, policies and local social-economic context on conservation issues.<br>
@@ -75,10 +80,10 @@ I'm a field ecologist with a focus on wild mammal ecology and conservation in on
 <ul> <li> 2019: Group member of the Conservation Biology Research Team of Peking University as the “Innovative Team 2019” awarded by the “Thousand Talents Program of the Qinghai Province” </li><li> 2013: May 4th award for outstanding PhD candidates in Peking University. </li> </ul>
 
 
-### Contact:
+### 联系方式:
 
- - Email: Lingyun.Xiao@xjtlu.edu.cn
+ - 电邮: Lingyun.Xiao@xjtlu.edu.cn
 
- - Telephone: +86 (0)512 8188 8774
+ - 电话: +86 (0)512 8188 8774
 
- - Address: Emerging & Interdisciplinary Sciences Building<br>ES329, South Campus<br>No. 8 Chongwen Road<br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
+ - 地址: Emerging & Interdisciplinary Sciences Building<br>ES329, South Campus<br>No. 8 Chongwen Road<br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>

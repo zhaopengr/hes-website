@@ -5,8 +5,8 @@ external_link = ""
 image = ""
 picture = ""
 project_id = "p001"
-short_description = "Degradation of organic plastic additives adsorbed on particulate particles in the atmosphere"
-title = "PGRS 2021 HAN"
+short_description = "PGRS 2021 HAN"
+title = "Degradation of organic plastic additives adsorbed on particulate particles in the atmosphere"
 [[participants]]
     id = "Han.Lei"
 [[participants]]

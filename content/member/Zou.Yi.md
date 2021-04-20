@@ -26,6 +26,15 @@ title = "ZOU, Yi"
 
 +++
 
+<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
+
+------
+### Research Team
+
+- GONG, Shanxing: Shanxing.Gong19@student.xjtlu.edu.cn
+- SHI, Xiaoyu: Xiaoyu.Shi18@student.xjtlu.edu.cn
+
+
 ### Profile
 
 My research focuses on biodiversity and landscape ecology. In particular​, I am interested in how arthropod diversity response to environmental changes, and how living landscapes influence ecosystem services (e.g. pollination and biological pest control), food security and farmer incomes.

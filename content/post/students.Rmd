@@ -12,7 +12,7 @@ students <- read_mdtable(mdfile = "../../static/database/students.md", skip = 0)
 students$Supervisor <- convert_id2link(students$Supervisor)
 students <- students[order(students$Name), ]
 row.names(students) <- 1:nrow(students)
-DT::datatable(students[, c("Name", "Contact", "Enter", "Supervisor")], escape = FALSE, 
+DT::datatable(students[, c("Name", "Contact", "Entry", "Supervisor")], escape = FALSE, 
               options = list(lengthMenu = c(nrow(students), 5, 10)))
 ```
 

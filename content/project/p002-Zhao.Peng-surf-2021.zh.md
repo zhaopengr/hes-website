@@ -5,8 +5,8 @@ external_link = ""
 image = ""
 picture = ""
 project_id = "p002"
-short_description = "一种在线自动切换气路的温室气体测量系统"
-title = "本科生暑期科研项目(SURF 2021 赵)"
+short_description = "本科生暑期科研项目(SURF 2021 赵)"
+title = "一种在线自动切换气路的温室气体测量系统"
 [[participants]]
     id = "Zhao.Peng"
 [[participants]]

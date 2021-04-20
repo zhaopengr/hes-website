@@ -26,6 +26,15 @@ title = "约翰尼斯·诺普斯"
 
 +++
 
+<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
+
+------
+### 研究团队
+
+- 阿力克斯: A.Denton19@student.xjtlu.edu.cn
+- 李丹: /
+
+
 ### Profile
 
 Johannes (Jean) M H Knops is Professor and Head of the Department of Health and Environmental Sciences at Xi’an Jiaotong Liverpool University in Suzhou, Jiangsu, China.  <br><br>He obtained his PhD from Arizona State University in the USA, was a postdoctoral fellow at the University of California, Berkeley and at the University of Minnesota.  <br><br>Previously he has served on the faculty of the University of Nebraska and was director of the Cedar Point Biological Station. <br><br>His teaching, research, and publications focus on the drivers that control biodiversity and the importance of biodiversity in the functioning of ecosystems. <br><br>Current research emphasis is on examining plant diversity in Qinghai-Tibetan alpine meadows and developing a framework to study biodiversity in an rapidly changing urban environment in China.
@@ -39,10 +48,10 @@ Johannes (Jean) M H Knops is Professor and Head of the Department of Health and 
 <ul> <li> https://scholar.google.com/citations?user=wQzqO0MAAAAJ&hl=en </li> </ul>
 
 
-### Contact:
+### 联系方式:
 
- - Email: Johannes.Knops@xjtlu.edu.cn
+ - 电邮: Johannes.Knops@xjtlu.edu.cn
 
- - Telephone: +86 (0)15501685132
+ - 电话: +86 (0)15501685132
 
- - Address: ES341, South Campus<br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
+ - 地址: ES341, South Campus<br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
