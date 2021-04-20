@@ -9,5 +9,6 @@ authors:
 source("../../R/functions.R")
 project <- read_mdtable(mdfile = "../../static/database/project.md", skip = 0)
 project$PI <- convert_id2link(staff_id = project$PI)
-DT::datatable(project, escape = FALSE)
+project <- project[, c( "Year", "Project", "PI", "Funding")]
+DT::datatable(project, escape = FALSE, options = list(lengthMenu = c(nrow(project), 5, 10)))
 ```

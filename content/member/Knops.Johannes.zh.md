@@ -4,18 +4,18 @@ bio = ""
 date = "2021-04-16"
 id = "Knops.Johannes"
 interests = ["biodiversity, community ecology, ecosystem ecology, plant-herbivore interactions, plant ecology, biological invasions & urban ecology"]
-name = "诺普斯-约翰尼斯"
+name = "约翰尼斯·诺普斯"
 portrait = "avatar/Knops.Johannes.jpg"
 short_bio = "STAFF_SHORT_INTRO"
 short_name = ""
-title = "诺普斯-约翰尼斯"
+title = "约翰尼斯·诺普斯"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:Johannes.Knops@xjtlu.edu.cn"
 [[organizations]]
     name = "Ph.D."
-    role = "Professor"
+    role = "教授"
 
 [[education]]
     course = "1982 Ing. Horticulture, Higher Agricultural College, The Netherlands"

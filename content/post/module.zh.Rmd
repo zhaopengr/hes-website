@@ -5,6 +5,9 @@ authors:
   - id: Zhao.Peng
 ---
 
+```{r, include=FALSE}
+Sys.setlocale("LC_CTYPE", "Chinese")
+```
 
 在英国，本科阶段学习学制三年，而中国本科阶段学制为四年。因此，对于已获得相应学时、证书的学生，在我校可以直接升入二年级进行专业学习；大多数学生则是进入一年级学习，包括众多有吸引力的课程，语言课程以及专业学习相关的核心技能学习。[了解更多关于一年级的信息](https://www.xjtlu.edu.cn/zh/study/why-study-at-xjtlu/year-one)。
 
@@ -13,13 +16,16 @@ authors:
 ```{r, echo=FALSE}
 source("../../R/functions.R")
 module <- read_mdtable(mdfile = "../../static/database/module.md", skip = 0)
-module$Leader <- convert_id2link(staff_id = module$Leader)
-module$Involved <- convert_id2link(staff_id = module$Involved)
+module$Leader <- convert_id2link(staff_id = module$Leader, language = "zh")
+module$Involved <- convert_id2link(staff_id = module$Involved, language = "zh")
+module$Level <- gsub("Year (.*)", "第 \\1 年", module$Level)
 module$Title <- paste0('<a href="http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=', 
                        module$Module, 
                        '">',
-                       module$Title, "</a>")
+                       module$Title_zh, "</a>")
+module <- module[, c("Level", "Module", "Title", "Leader", "Involved")]
 DT::datatable(module, escape = FALSE,  
+              colnames = c("学年",  "课程代码", "课程名称", "主讲人", "贡献者"),
               options = list(lengthMenu = c(nrow(module), 5, 10, nrow(module))))
 ```
 

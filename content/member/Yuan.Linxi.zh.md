@@ -15,7 +15,7 @@ title = "袁林喜"
     link = "mailto:Linxi.Yuan@xjtlu.edu.cn"
 [[organizations]]
     name = "PhD"
-    role = "Associate Professor"
+    role = "副教授"
 
 [[education]]
     course = "Ph.D., Environmental Sciences. School of Earth and Space Sciences, University of Science and Technology of China, 2010"

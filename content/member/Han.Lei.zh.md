@@ -15,7 +15,7 @@ title = "韩蕾"
     link = "mailto:Lei.Han@xjtlu.edu.cn"
 [[organizations]]
     name = "Ph. D."
-    role = "Lecturer"
+    role = "讲师"
 
 [[education]]
     course = "Ph.D., University of Bayreuth, Germany, -2013"

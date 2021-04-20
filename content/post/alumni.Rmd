@@ -9,5 +9,6 @@ authors:
 source("../../R/functions.R")
 alumni <- read_mdtable(mdfile = "../../static/database/alumni.md", skip = 0)
 alumni$Supervisor <- convert_id2link(staff_id = alumni$Supervisor)
+alumni <- alumni[, c("Name", "Position", "Enter", "Leave", "Supervisor", "Currently")]
 DT::datatable(alumni, escape = FALSE)
 ```

@@ -4,18 +4,18 @@ bio = ""
 date = "2021-04-16"
 id = "Nunez.Pagani.Emilio"
 interests = ["Behavioral Ecology", "Trophic interactions", "Urbanization", "Environmental pollution", "Community ecology", "Ornithology"]
-name = "努内茨-埃米利欧"
+name = "埃米利欧·努内茨"
 portrait = "avatar/Nunez.Pagani.Emilio.jpg"
 short_bio = "STAFF_SHORT_INTRO"
 short_name = ""
-title = "努内茨-埃米利欧"
+title = "埃米利欧·努内茨"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:Emilio.PNunez@xjtlu.edu.cn"
 [[organizations]]
     name = "Ph.D."
-    role = "Assistant Professor"
+    role = "助理教授"
 
 [[education]]
     course = "PhD in Biodiversity, University of Barcelona - 2014"

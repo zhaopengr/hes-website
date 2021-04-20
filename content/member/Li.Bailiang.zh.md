@@ -15,7 +15,7 @@ title = "李柏良"
     link = "mailto:Bailiang.Li@xjtlu.edu.cn"
 [[organizations]]
     name = "Ph.D."
-    role = "Lecturer"
+    role = "讲师"
 
 [[education]]
     course = "Ph.D. , Texas A&amp;M University,  - 2010"

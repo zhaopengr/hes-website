@@ -14,7 +14,7 @@ title = "赵鹏"
     icon_pack = "fa"
     link = "mailto:Peng.Zhao@xjtlu.edu.cn"
 [[organizations]]
-    name = "博士"
+    name = "Ph. D."
     role = "助理教授"
 
 [[education]]

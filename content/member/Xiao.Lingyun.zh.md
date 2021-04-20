@@ -15,7 +15,7 @@ title = "肖凌云"
     link = "mailto:Lingyun.Xiao@xjtlu.edu.cn"
 [[organizations]]
     name = "PH. D."
-    role = "Assistant Professor"
+    role = "助理教授"
 
 [[education]]
     course = "Ph.D., Zoology. Peking University, 2011-2017"

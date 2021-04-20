@@ -5,9 +5,16 @@ authors:
   - id: Zhao.Peng
 ---
 
+```{r, include=FALSE}
+Sys.setlocale("LC_CTYPE", "Chinese")
+```
+
 ```{r, echo=FALSE}
 source("../../R/functions.R")
 project <- read_mdtable(mdfile = "../../static/database/project.md", skip = 0)
-project$PI <- convert_id2link(staff_id = project$PI)
-DT::datatable(project, escape = FALSE)
+project$PI <- convert_id2link(staff_id = project$PI, language = "zh")
+project <- project[, c( "Year", "Project_zh", "PI", "Funding_zh")]
+DT::datatable(project, escape = FALSE, 
+              colnames = c("年份", "项目名称", "负责人", "资助单位"), 
+              options = list(lengthMenu = c(nrow(project), 5, 10)))
 ```

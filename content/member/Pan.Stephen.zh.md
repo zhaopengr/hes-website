@@ -4,18 +4,18 @@ bio = ""
 date = "2021-04-16"
 id = "Pan.Stephen"
 interests = ["N.A."]
-name = "潘-史蒂芬"
+name = "潘长浩"
 portrait = "avatar/Pan.Stephen.jpg"
 short_bio = "STAFF_SHORT_INTRO"
 short_name = ""
-title = "潘-史蒂芬"
+title = "潘长浩"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:Stephen.Pan@xjtlu.edu.cn"
 [[organizations]]
     name = "Ph.D."
-    role = "Assistant Professor"
+    role = "助理教授"
 
 [[education]]
     course = "Ph.D. , University of British Columbia, Vancouver, Canada"

@@ -15,7 +15,7 @@ title = "邹怡"
     link = "mailto:YI.ZOU@xjtlu.edu.cn"
 [[organizations]]
     name = "PhD"
-    role = "Lecturer"
+    role = "讲师"
 
 [[education]]
     course = "Ph.D. , University College London (UCL), - 2014"

@@ -4,18 +4,18 @@ bio = ""
 date = "2021-04-16"
 id = "Wamsiedel.Marius"
 interests = ["Social categorization, sociology of health and illness, informal practices, post-socialism, ethnicity, Roma studies, ethnography, symbolic interaction"]
-name = "华姆西德尔-马里乌斯"
+name = "马里乌斯·华姆西德尔"
 portrait = "avatar/Wamsiedel.Marius.jpg"
 short_bio = "STAFF_SHORT_INTRO"
 short_name = ""
-title = "华姆西德尔-马里乌斯"
+title = "马里乌斯·华姆西德尔"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:Marius.Wamsiedel@xjtlu.edu.cn"
 [[organizations]]
     name = " (PhD)"
-    role = "Lecturer"
+    role = "讲师"
 
 [[education]]
     course = "PhD, University of Hong Kong - 2016"

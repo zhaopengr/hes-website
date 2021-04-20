@@ -4,18 +4,18 @@ bio = ""
 date = "2021-04-16"
 id = "Carciofo.Richard"
 interests = ["mind wandering, daydreaming, chronotype, individual differences"]
-name = "卡奇欧佛-理查德"
+name = "理查德·卡奇欧佛"
 portrait = "avatar/Carciofo.Richard.jpg"
 short_bio = "STAFF_SHORT_INTRO"
 short_name = ""
-title = "卡奇欧佛-理查德"
+title = "理查德·卡奇欧佛"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:Richard.Carciofo@xjtlu.edu.cn"
 [[organizations]]
     name = "Ph.D."
-    role = "Lecturer"
+    role = "讲师"
 
 [[education]]
     course = "Ph.D. , University of the Chinese Academy of Sciences,  - 2014"

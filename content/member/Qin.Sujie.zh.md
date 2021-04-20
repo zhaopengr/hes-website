@@ -15,7 +15,7 @@ title = "秦素洁"
     link = "mailto:Sujie.Qin@xjtlu.edu.cn"
 [[organizations]]
     name = "Ph.D."
-    role = "Lecturer"
+    role = "讲师"
 
 [[education]]
     course = "Ph.D. , Environmental Sciences, University of California, Riverside, California, USA,  - 2007"

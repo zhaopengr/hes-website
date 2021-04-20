@@ -8,7 +8,7 @@ math = false
 publication = "PLoS ONE 2020, 15(6): e0235247."
 publication_short = ""
 selected = false
-title = "[Paper] Outbreak analysis with a logistic growth model shows COVID-19 suppression dynamics in China"
+title = "[论文] Outbreak analysis with a logistic growth model shows COVID-19 suppression dynamics in China"
 url_official = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235247"
 url_code = "https://github.com/pzhaonet/ncov2020"
 url_dataset = ""

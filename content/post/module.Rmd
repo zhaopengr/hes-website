@@ -19,6 +19,7 @@ module$Title <- paste0('<a href="http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_co
                        module$Module, 
                        '">',
                        module$Title, "</a>")
+module <- module[, c("Level", "Module", "Title", "Leader", "Involved")]
 DT::datatable(module, escape = FALSE,  
               options = list(lengthMenu = c(nrow(module), 5, 10, nrow(module))))
 ```

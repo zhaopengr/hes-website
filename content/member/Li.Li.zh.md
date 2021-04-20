@@ -15,7 +15,7 @@ title = "李黎"
     link = "mailto:Li.Li01@xjtlu.edu.cn"
 [[organizations]]
     name = "Dr. rer. nat."
-    role = "Assistant Professor"
+    role = "助理教授"
 
 [[education]]
     course = "BA, Northwestern Polytechnic University – 2004"

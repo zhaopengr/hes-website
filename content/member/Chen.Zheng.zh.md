@@ -15,7 +15,7 @@ title = "陈正"
     link = "mailto:Zheng.Chen@xjtlu.edu.cn"
 [[organizations]]
     name = "Ph.D."
-    role = "Associate Professor"
+    role = "副教授"
 
 [[education]]
     course = "Ph.D. , Agricultural Chemistry, Hokkaido University,  - 2008"

@@ -5,10 +5,10 @@ date = "2021-03-06"
 image = ""
 image_preview = ""
 math = false
-publication = "Comming soon."
+publication = "即将出版。"
 publication_short = ""
 selected = false
-title = "[Book] 现代统计图形 (Modern Statistical Graphics)"
+title = "[书籍] 现代统计图形"
 url_official = "https://msg2020.pzhao.org"
 url_code = "https://github.com/yihui/MSG"
 url_dataset = ""
@@ -25,6 +25,6 @@ url_video = ""
     name = "黄湘云"
 +++
 
-Comming soon...
+即将出版。
 
 ![](../../img/publication/book-2021-zhao.png)

@@ -1,9 +1,20 @@
-+++
-short_text = "We are still here."
-title = "PhD students"
-[[authors]]
-    id = "Zhao.Peng"
-+++
+---
+short_text: "We are still here."
+title: "PhD students"
+authors:
+  - id: "Zhao.Peng"
+---
+
+
+```{r, echo=FALSE}
+source("../../R/functions.R")
+students <- read_mdtable(mdfile = "../../static/database/students.md", skip = 0)
+students$Supervisor <- convert_id2link(students$Supervisor)
+students <- students[order(students$Name), ]
+row.names(students) <- 1:nrow(students)
+DT::datatable(students[, c("Name", "Contact", "Enter", "Supervisor")], escape = FALSE, 
+              options = list(lengthMenu = c(nrow(students), 5, 10)))
+```
 
 ## QINGQIAN NING
 

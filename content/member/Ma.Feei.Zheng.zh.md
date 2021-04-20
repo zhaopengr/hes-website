@@ -4,11 +4,11 @@ bio = ""
 date = "2021-04-16"
 id = "Ma.Feei.Zheng"
 interests = ["Biostatistics & Epidemiology", "Nutrition through the Human Life Cycle", "Pharmaceutical", "Environmental & Human Health", "Medical Science", "Food Science"]
-name = "马正斐"
+name = "马钲斐"
 portrait = "avatar/Ma.Feei.Zheng.jpg"
 short_bio = "STAFF_SHORT_INTRO"
 short_name = ""
-title = "马正斐"
+title = "马钲斐"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
