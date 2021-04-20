@@ -29,9 +29,20 @@ title = "潘长浩"
 <!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
 
 ------
+
 ### 研究团队
 
 - 杰米: /
+
+
+### 教学
+
+
+
+#### 参与课程
+
+
+- ENV201: <a href="http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV201">环境科研项目设计入门</a>
 
 
 ### Profile

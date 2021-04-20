@@ -29,9 +29,20 @@ title = "PAN, Stephen"
 <!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
 
 ------
+
 ### Research Team
 
 - ETIENNE, Jaime: /
+
+
+### Teaching
+
+
+
+#### Supported Modules
+
+
+- ENV201: <a href="http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV201">Research Design</a>
 
 
 ### Profile

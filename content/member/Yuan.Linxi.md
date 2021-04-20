@@ -31,6 +31,7 @@ title = "YUAN, Linxi"
 ------
 
 
+
 ### Profile
 
 Dr Linxi Yuan's research focused on Trace Element (eg. Selenium) Biofortification, Interaction between Trace Elements and Rhizopheric Microorganism, and Elemental Speciation Analysis. Till now, he has written two books, published two chapters, and edited two special issues on selenium biofortification. He has published a total of 102 papers, in which 35 articles were cited in SCI database and 28 proceeding papers were cited in EI database.  He functioned as secretariat leader to organize 2nd and 3rd International Conferences on Selenium in Environment and Human Health, and gave oral presentations at 4th, 5th and 6th International Conference on Selenium in Environment and Human Health as invited speaker. <br><br>Check my profile:<br>https://www.researchgate.net/profile/Yuan_Linxi<br><br>https://scholar.google.com/citations?user=_TErVoUAAAAJ&hl=zh-CN<br><br><br><br>
