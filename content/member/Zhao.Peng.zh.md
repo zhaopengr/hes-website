@@ -35,7 +35,7 @@ title = "赵鹏"
 ### 教学
 
 
- #### 主讲课程
+#### 主讲课程
 
 
 - ENV203: <a href="http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV203">面向环境科学的统计学</a>

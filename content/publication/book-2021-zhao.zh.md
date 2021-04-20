@@ -27,4 +27,4 @@ url_video = ""
 
 即将出版。
 
-![](../../img/publication/book-2021-zhao.png)
+![](../../../img/publication/book-2021-zhao.png)
