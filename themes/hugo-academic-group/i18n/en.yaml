@@ -1,5 +1,50 @@
+- id: homeTitle
+  translation: "Home"
+
+- id: staffTitle
+  translation: "Staff"
+
 - id: academicStaff
   translation: "Academic Staff"
+    
+- id: supportTitle
+  translation: "Support"
+
+- id: studentsTitle
+  translation: "PhD Students"
+
+- id: alumniTitle
+  translation: "Alumni"
+
+- id: projectsTitle
+  translation: "Projects"
+
+- id: teachingTitle
+  translation: "Teaching"
+
+- id: eventsTitle
+  translation: "Events"
+
+- id: labTitle
+  translation: "Lab"
+
+- id: aboutTitle
+  translation: "About"
+
+- id: contactTitle
+  translation: "Contact"
+
+- id: forumTitle
+  translation: "Forum"
+
+- id: rssTitle
+  translation: "RSS"
+
+- id: editTitle
+  translation: "Edit"
+
+- id: switchLanguage
+  translation: "中文"
   
 - id: postAuthors
   translation: "Author"
@@ -10,6 +55,9 @@
 - id: insertZh/
   translation: ""
  
+- id: insertZhRev/
+  translation: "zh/"
+
 - id: researchTitle
   translation: "Research"
 

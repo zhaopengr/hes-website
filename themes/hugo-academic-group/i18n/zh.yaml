@@ -1,5 +1,50 @@
+- id: homeTitle
+  translation: "主页"
+  
+- id: staffTitle
+  translation: "师资"
+
 - id: academicStaff
   translation: "教研人员"
+
+- id: supportTitle
+  translation: "支持团队"
+
+- id: studentsTitle
+  translation: "博士生"
+
+- id: alumniTitle
+  translation: "校友"
+
+- id: projectsTitle
+  translation: "项目"
+
+- id: teachingTitle
+  translation: "教学"
+
+- id: eventsTitle
+  translation: "活动"
+
+- id: labTitle
+  translation: "实验室"
+
+- id: aboutTitle
+  translation: "简介"
+
+- id: contactTitle
+  translation: "联系我们"
+
+- id: forumTitle
+  translation: "论坛"
+
+- id: rssTitle
+  translation: "RSS"
+
+- id: editTitle
+  translation: "编辑"
+
+- id: switchLanguage
+  translation: "English"
 
 - id: postAuthors
   translation: "本文作者"
@@ -9,6 +54,9 @@
  
 - id: insertZh/
   translation: "zh/"
+
+- id: insertZhRev/
+  translation: "https://hes.pzhao.org"
 
 - id: researchTitle
   translation: "科研"

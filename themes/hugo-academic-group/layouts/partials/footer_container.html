@@ -11,23 +11,23 @@
   <p class="powered-by">
             {{ with .Site.Copyright }}{{ . | markdownify}} {{ end }}
             </br>
-			<a href="">Home</a> - 
-			<a href="#members">Staff</a> - 
-            <a href="post/support_team">Support</a> - 
-            <a href="post/students/">Students</a> - 
-            <a href="post/alumni">Alumni</a> - 
-            <a href="#projects">Research</a> - 
-            <a href="#publications">Publications</a> - 
-            <a href="post/projects">Projects</a> - 
-            <a href="post/module">Teaching</a> - 
-            <a href="post">News</a> - 
-            <a href="post/events">Events</a> - 
-            <a href="https://heslab.pzhao.org/">Lab</a> - 
-            <a href="about">About</a> - 
-            <a href="#contact">Contact</a> - 
-			<a href="https://github.com/pzhaonet/hes-website/issues" target="_blank">Forum</a> - 
-			<a href="../index.xml" target="_blank">Subscribe RSS</a> -
-			<a href="https://github.com/pzhaonet/hes-website/tree/main/content" target="_blank">Edit</a>
+			<a href="">{{ i18n "homeTitle" }}</a> - 
+			<a href="#members">{{ i18n "staffTitle" }}</a> - 
+            <a href="post/support_team">{{ i18n "supportTitle" }}</a> - 
+            <a href="post/students/">{{ i18n "studentsTitle" }}</a> - 
+            <a href="post/alumni">{{ i18n "alumniTitle" }}</a> - 
+            <a href="#projects">{{ i18n "researchTitle" }}</a> - 
+            <a href="#publications">{{ i18n "publicationTitle" }}</a> - 
+            <a href="post/projects">{{ i18n "projectsTitle" }}</a> - 
+            <a href="post/module">{{ i18n "teachingTitle" }}</a> - 
+            <a href="post">{{ i18n "newsTitle" }}</a> - 
+            <a href="post/events">{{ i18n "eventsTitle" }}</a> - 
+            <a href="https://heslab.pzhao.org/">{{ i18n "labTitle" }}</a> - 
+            <a href="about">{{ i18n "aboutTitle" }}</a> - 
+            <a href="#contact">{{ i18n "contactTitle" }}</a> - 
+			<a href="https://github.com/pzhaonet/hes-website/issues" target="_blank">{{ i18n "forumTitle" }}</a> - 
+			<a href="../index.xml" target="_blank">{{ i18n "rssTitle" }}</a> -
+			<a href="https://github.com/pzhaonet/hes-website/tree/main/content" target="_blank">{{ i18n "editTitle" }}</a>
 <!---
             {{ with .Site.Copyright }}{{ . | markdownify}} &middot; {{ end }}
 			
