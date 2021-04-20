@@ -4,7 +4,10 @@
         <!-- Section heading -->
         <div class="row">
             <div class="col-xs-12 col-md-4 section-heading">
-                <h1 class="section-heading"><a href="{{.Site.BaseURL}}/member/{{if .Site.Params.uglyURLs}}index.html{{end}}"> Academic Staff </a></h1>
+                <h1 class="section-heading"><a href="{{.Site.BaseURL}}/{{ i18n "insertZh/" }}member/{{if .Site.Params.uglyURLs}}index.html{{end}}"> {{ i18n "academicStaff" }} </a></h1>
+		<!--
+                <h1 class="section-heading"><a href="{{.Site.BaseURL}}/member/{{if .Site.Params.uglyURLs}}index.html{{end}}"> {{ i18n "academicStaff" }} </a></h1>
+		-->
             </div>
         </div>
 
@@ -20,8 +23,11 @@
         <!-- Link to all members -->
         <div>
             <p class="view-all">
+			<!--
                 <a href="{{ .Site.BaseURL }}/member/{{if .Site.Params.uglyURLs}}index.html{{end}}">
-                    More info
+			-->
+                <a href="{{ .Site.BaseURL }}/{{ i18n "insertZh/" }}member/{{if .Site.Params.uglyURLs}}index.html{{end}}">
+                    {{ i18n "moreInfo" }}
                     <i class="fa fa-angle-double-right"></i>
                 </a>
             </p>

@@ -1,0 +1,57 @@
+- id: academicStaff
+  translation: "Academic Staff"
+  
+- id: postAuthors
+  translation: "Author"
+  
+- id: moreInfo
+  translation: "More info"
+ 
+- id: insertZh/
+  translation: ""
+ 
+- id: researchTitle
+  translation: "Research"
+
+- id: publicationTitle
+  translation: "Publications"
+ 
+- id: newsTitle
+  translation: "News"
+
+- id: publicationDetails
+  translation: "Details"
+
+- id: publicationOfficial
+  translation: "Official"
+
+- id: publicationPDF
+  translation: "PDF"
+
+- id: publicationSlides
+  translation: "Slides"
+
+- id: publicationVideo
+  translation: "Video"
+
+- id: publicationCode
+  translation: "Code"
+
+- id: publicationDataset
+  translation: "Dataset"
+
+- id: publicationProject
+  translation: "Project"
+
+- id: publicationPoster
+  translation: "Poster"
+  
+- id: interestsTitle
+  translation: "Interests"
+
+- id: educationTitle
+  translation: "Education"
+ 
+- id: biographyTitle
+  translation: "Biography"
+ 

@@ -61,7 +61,7 @@ defaultContentLanguageInSubdir = true
     
   [[params.slogan_columns]]
     title = "Matters"
-    text = "- News [link](/post)  \n- Events [link](/post/events)  \n- Lab [link](https://heslab.pzhao.org/)  \n- About [link](/about)  \n- Contact [link](/#contact)"
+    text = "- News [link](/#posts)  \n- Events [link](/post/events)  \n- Lab [link](https://heslab.pzhao.org/)  \n- About [link](/about)  \n- Contact [link](/#contact)"
     weight = 3
 
   # Selected Publications section.
@@ -193,12 +193,12 @@ defaultContentLanguageInSubdir = true
 
   [[languages.zh.params.slogan_columns]]
     title = "工作"
-    text = "- 科研 [link](/zh/#projects)  \n- 论文 [link](/zh/#publications) \n- 项目 [link](/zh/post/projects)  \n- 教学 [link](/zh/post/module)"
+    text = "- 科研 [link](/zh/#projects)  \n- 著作 [link](/zh/publication) \n- 项目 [link](/zh/post/projects)  \n- 教学 [link](/zh/post/module)"
     weight = 2
     
   [[languages.zh.params.slogan_columns]]
     title = "和其他"
-    text = "- 新闻 [link](/zh/post)  \n- 活动 [link](/zh/post/events)  \n- 实验室 [link](https://heslab.pzhao.org/)  \n- 关于 [link](/zh/about)  \n- 联系我们 [link](/zh/#contact)"
+    text = "- 新闻 [link](/zh/#posts)  \n- 活动 [link](/zh/post/events)  \n- 实验室 [link](https://heslab.pzhao.org/)  \n- 关于 [link](/zh/about)  \n- 联系我们 [link](/zh/#contact)"
     weight = 3
 
   # Selected Publications section.
@@ -212,9 +212,9 @@ defaultContentLanguageInSubdir = true
   [languages.zh.params.publications]
     count = 6
     detailed_list = false
-    title = "论文"
-    subtitle = ""
-    str_all = "更多论文"
+    title = "著作"
+    subtitle = "论文，书籍，专利"
+    str_all = "更多著作"
 
   # Posts section.
   # Section will only be displayed if there are posts in `content/post/`.
@@ -223,7 +223,7 @@ defaultContentLanguageInSubdir = true
     title = "新闻"
     subtitle = ""
     str_all = "更多新闻"
-    str_read_more = "Read more"
+    str_read_more = "阅读全文"
     url = "/zh/post"
 
   # Projects section.
@@ -260,8 +260,8 @@ defaultContentLanguageInSubdir = true
       weight = 20
 
   [[languages.zh.menu.main]]
-      name = "论文"
-      url = "/zh/publication"
+      name = "著作"
+      url = "/zh/#publications"
       weight = 30
 
   [[languages.zh.menu.main]]
@@ -286,7 +286,7 @@ defaultContentLanguageInSubdir = true
 
   [[languages.zh.menu.main]]
       name = "新闻"
-      url = "/zh/post"
+      url = "/zh/#posts"
       weight = 80
 
 #  [[languages.zh.menu.main]]

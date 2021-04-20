@@ -1,0 +1,57 @@
+- id: academicStaff
+  translation: "教研人员"
+
+- id: postAuthors
+  translation: "本文作者"
+
+- id: moreInfo
+  translation: "更多信息"
+ 
+- id: insertZh/
+  translation: "zh/"
+
+- id: researchTitle
+  translation: "科研"
+  
+- id: publicationTitle
+  translation: "著作"
+  
+- id: newsTitle
+  translation: "新闻"
+
+- id: publicationDetails
+  translation: "详情"
+
+- id: publicationOfficial
+  translation: "官网"
+
+- id: publicationPDF
+  translation: "PDF"
+
+- id: publicationSlides
+  translation: "演示"
+
+- id: publicationVideo
+  translation: "视频"
+
+- id: publicationCode
+  translation: "代码"
+
+- id: publicationDataset
+  translation: "数据"
+
+- id: publicationProject
+  translation: "项目"
+
+- id: publicationPoster
+  translation: "海报"
+
+- id: interestsTitle
+  translation: "研究兴趣"
+
+- id: educationTitle
+  translation: "教育背景"
+
+- id: biographyTitle
+  translation: "简历"
+ 
