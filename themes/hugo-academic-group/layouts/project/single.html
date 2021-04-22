@@ -5,7 +5,7 @@
 
     <article class="article article-project" itemscope itemtype="http://schema.org/Article">
         <h1 itemprop="name">{{ .Title }}</h1>
-        
+<!---        
         {{ if eq .Params.participants_block_position "up" }}
         <h3>Participants</h3>
         <div id="participants"> 
@@ -16,6 +16,10 @@
             </div>
         </div>
         {{ end }}
+--->
+            <div class="pub-authors" itemprop="author">
+                {{ partial "participants" .Params.participants}} 
+            </div>					
 
         {{ with .Params.external_link }}<a class="btn btn-primary btn-outline" href="{{ . }}">Go to Project Site</a>{{ end }}
 
