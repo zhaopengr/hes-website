@@ -34,8 +34,6 @@ title = "YUAN, Linxi"
 
 
 <!-- Alumni Begins -->
-
-
 <!-- Alumni Ends -->
 
 

@@ -34,8 +34,6 @@ title = "WAMSIEDEL, Marius"
 
 
 <!-- Alumni Begins -->
-
-
 <!-- Alumni Ends -->
 
 

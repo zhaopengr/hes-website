@@ -34,8 +34,6 @@ title = "QIN, Sujie"
 
 
 <!-- Alumni Begins -->
-
-
 <!-- Alumni Ends -->
 
 

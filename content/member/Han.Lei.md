@@ -34,8 +34,6 @@ title = "HAN, Lei"
 
 
 <!-- Alumni Begins -->
-
-
 <!-- Alumni Ends -->
 
 

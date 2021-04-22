@@ -34,8 +34,6 @@ title = "CHEN, Ying"
 
 
 <!-- Alumni Begins -->
-
-
 <!-- Alumni Ends -->
 
 

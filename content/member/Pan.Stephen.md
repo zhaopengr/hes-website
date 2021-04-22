@@ -38,12 +38,6 @@ title = "PAN, Stephen"
 
 
 <!-- Alumni Begins -->
-
-
-### Alumni
-
-
-- [ETIENNE, Jaime](../../post/alumni/#Etienne.Jaime)
 <!-- Alumni Ends -->
 
 

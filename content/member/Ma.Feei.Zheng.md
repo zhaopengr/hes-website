@@ -40,12 +40,6 @@ title = "MA, Zheng Feei"
 
 
 <!-- Alumni Begins -->
-
-
-### Alumni
-
-
-- [LIU, Shuchang](../../post/alumni/#Liu.Shuchang)
 <!-- Alumni Ends -->
 
 

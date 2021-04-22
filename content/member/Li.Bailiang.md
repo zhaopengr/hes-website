@@ -40,16 +40,6 @@ title = "LI, Bailiang"
 
 
 <!-- Alumni Begins -->
-
-
-### Alumni
-
-
-- [NING, Qingqian](../../post/alumni/#Ning.Qingqian)
-
-- [MELDAU, Lukas Florian](../../post/alumni/#Meldau.Lukas.Florian)
-
-- [SUN, Bokun](../../post/alumni/#Sun.Bokun)
 <!-- Alumni Ends -->
 
 

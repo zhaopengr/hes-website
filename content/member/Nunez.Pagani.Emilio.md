@@ -38,12 +38,6 @@ title = "NUNEZ, Emilio Pagani"
 
 
 <!-- Alumni Begins -->
-
-
-### Alumni
-
-
-- [ZENG, Yu](../../post/alumni/#Zeng.Yu)
 <!-- Alumni Ends -->
 
 

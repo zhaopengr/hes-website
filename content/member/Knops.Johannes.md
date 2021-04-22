@@ -39,14 +39,6 @@ title = "KNOPS, Johannes"
 
 
 <!-- Alumni Begins -->
-
-
-### Alumni
-
-
-- [DENTON, Alex](../../post/alumni/#Denton.Alex)
-
-- [LI, Dan](../../post/alumni/#Li.Dan)
 <!-- Alumni Ends -->
 
 

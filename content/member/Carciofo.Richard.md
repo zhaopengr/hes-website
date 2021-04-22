@@ -30,8 +30,6 @@ title = "CARCIOFO, Richard"
 
 
 <!-- Alumni Begins -->
-
-
 <!-- Alumni Ends -->
 
 

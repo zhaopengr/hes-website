@@ -39,14 +39,6 @@ title = "ZOU, Yi"
 
 
 <!-- Alumni Begins -->
-
-
-### Alumni
-
-
-- [GONG, Shanxing](../../post/alumni/#Gong.Shanxing)
-
-- [SHI, Xiaoyu](../../post/alumni/#Shi.Xiaoyu)
 <!-- Alumni Ends -->
 
 
