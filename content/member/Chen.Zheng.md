@@ -27,24 +27,30 @@ title = "CHEN, Zheng"
 +++
 
 
-
 <!-- Research Team Begins -->
 
 
 ### Research Team
 
-- ZHANG, Sha: Sha.Zhang19@student.xjtlu.edu.cn
-- YUAN, Zhaofeng: /
 
-
+- [ZHANG, Sha](../../post/postgraduates/#Zhang.Sha)
 <!-- Research Team Ends -->
+
+
+<!-- Alumni Begins -->
+
+
+### Alumni
+
+
+- [YUAN, Zhaofeng](../../post/alumni/#Yuan.Zhaofeng)
+<!-- Alumni Ends -->
 
 
 <!-- Teaching Begins -->
 
 
 <!-- Teaching Ends -->
-
 
 
 

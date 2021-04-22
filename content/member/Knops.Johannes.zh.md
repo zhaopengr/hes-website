@@ -27,24 +27,27 @@ title = "约翰尼斯·诺普斯"
 +++
 
 
-
 <!-- Research Team Begins -->
 
 
 ### 研究团队
 
-- 阿力克斯: A.Denton19@student.xjtlu.edu.cn
-- 李丹: /
 
-
+- [阿力克斯](../../post/postgraduates/#Denton.Alex)
+- [李丹](../../post/postgraduates/#Li.Dan)
 <!-- Research Team Ends -->
+
+
+<!-- Alumni Begins -->
+
+
+<!-- Alumni Ends -->
 
 
 <!-- Teaching Begins -->
 
 
 <!-- Teaching Ends -->
-
 
 
 

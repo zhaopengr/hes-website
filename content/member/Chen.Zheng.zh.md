@@ -27,24 +27,30 @@ title = "陈正"
 +++
 
 
-
 <!-- Research Team Begins -->
 
 
 ### 研究团队
 
-- 张厦: Sha.Zhang19@student.xjtlu.edu.cn
-- 袁召锋: /
 
-
+- [张厦](../../post/postgraduates/#Zhang.Sha)
 <!-- Research Team Ends -->
+
+
+<!-- Alumni Begins -->
+
+
+### 毕业生
+
+
+- [袁召锋](../../post/alumni/#Yuan.Zhaofeng)
+<!-- Alumni Ends -->
 
 
 <!-- Teaching Begins -->
 
 
 <!-- Teaching Ends -->
-
 
 
 

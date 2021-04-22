@@ -27,16 +27,20 @@ title = "潘长浩"
 +++
 
 
-
 <!-- Research Team Begins -->
 
 
 ### 研究团队
 
-- 杰米: /
 
-
+- [杰米](../../post/postgraduates/#Etienne.Jaime)
 <!-- Research Team Ends -->
+
+
+<!-- Alumni Begins -->
+
+
+<!-- Alumni Ends -->
 
 
 <!-- Teaching Begins -->
@@ -50,10 +54,7 @@ title = "潘长浩"
 
 
 - ENV201: <a href="http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV201">环境科研项目设计入门</a>
-
-
 <!-- Teaching Ends -->
-
 
 
 

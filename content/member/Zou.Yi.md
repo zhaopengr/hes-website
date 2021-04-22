@@ -27,24 +27,33 @@ title = "ZOU, Yi"
 +++
 
 
-
 <!-- Research Team Begins -->
 
 
 ### Research Team
 
-- GONG, Shanxing: Shanxing.Gong19@student.xjtlu.edu.cn
-- SHI, Xiaoyu: Xiaoyu.Shi18@student.xjtlu.edu.cn
 
-
+- [GONG, Shanxing](../../post/postgraduates/#Gong.Shanxing)
+- [SHI, Xiaoyu](../../post/postgraduates/#Shi.Xiaoyu)
 <!-- Research Team Ends -->
+
+
+<!-- Alumni Begins -->
+
+
+### Alumni
+
+
+- [GONG, Shanxing](../../post/alumni/#Gong.Shanxing)
+
+- [SHI, Xiaoyu](../../post/alumni/#Shi.Xiaoyu)
+<!-- Alumni Ends -->
 
 
 <!-- Teaching Begins -->
 
 
 <!-- Teaching Ends -->
-
 
 
 

@@ -27,25 +27,36 @@ title = "LI, Bailiang"
 +++
 
 
-
 <!-- Research Team Begins -->
 
 
 ### Research Team
 
-- NING, Qingqian: Qingqian.Ning@xjtlu.edu.cn
-- MELDAU, Lukas Florian: L.Meldau19@student.xjtlu.edu.cn
-- SUN, Bokun: Bokun.Sun19@student.xjtlu.edu.cn
 
-
+- [NING, Qingqian](../../post/postgraduates/#Ning.Qingqian)
+- [MELDAU, Lukas Florian](../../post/postgraduates/#Meldau.Lukas.Florian)
+- [SUN, Bokun](../../post/postgraduates/#Sun.Bokun)
 <!-- Research Team Ends -->
+
+
+<!-- Alumni Begins -->
+
+
+### Alumni
+
+
+- [NING, Qingqian](../../post/alumni/#Ning.Qingqian)
+
+- [MELDAU, Lukas Florian](../../post/alumni/#Meldau.Lukas.Florian)
+
+- [SUN, Bokun](../../post/alumni/#Sun.Bokun)
+<!-- Alumni Ends -->
 
 
 <!-- Teaching Begins -->
 
 
 <!-- Teaching Ends -->
-
 
 
 

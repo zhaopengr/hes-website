@@ -27,24 +27,27 @@ title = "邹怡"
 +++
 
 
-
 <!-- Research Team Begins -->
 
 
 ### 研究团队
 
-- 龚善星: Shanxing.Gong19@student.xjtlu.edu.cn
-- 石晓宇: Xiaoyu.Shi18@student.xjtlu.edu.cn
 
-
+- [龚善星](../../post/postgraduates/#Gong.Shanxing)
+- [石晓宇](../../post/postgraduates/#Shi.Xiaoyu)
 <!-- Research Team Ends -->
+
+
+<!-- Alumni Begins -->
+
+
+<!-- Alumni Ends -->
 
 
 <!-- Teaching Begins -->
 
 
 <!-- Teaching Ends -->
-
 
 
 

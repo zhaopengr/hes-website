@@ -29,23 +29,30 @@ title = "MA, Zheng Feei"
 +++
 
 
-
 <!-- Research Team Begins -->
 
 
 ### Research Team
 
-- LIU, Shuchang: /
 
-
+- [LIU, Shuchang](../../post/postgraduates/#Liu.Shuchang)
 <!-- Research Team Ends -->
+
+
+<!-- Alumni Begins -->
+
+
+### Alumni
+
+
+- [LIU, Shuchang](../../post/alumni/#Liu.Shuchang)
+<!-- Alumni Ends -->
 
 
 <!-- Teaching Begins -->
 
 
 <!-- Teaching Ends -->
-
 
 
 

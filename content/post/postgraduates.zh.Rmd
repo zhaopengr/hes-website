@@ -27,8 +27,8 @@ DT::datatable(students[, c("Name_zh", "Contact", "Entry", "Supervisor")], escape
 for (i in 1:nrow(students)){
   cat('## ', students$Name_txt[i], '<a name="', students$ID[i], '"></a>', ' \n\n',
       '<img src="../../../img/students/', students$ID[i], '.jpg" style="display: block; margin: auto;">', '\n\n',
-      '联系方式: ', students$Contact[i], '.\n\n',
-      '导师: ', students$Supervisor[i], '.\n\n',
+      '联系方式: ', students$Contact[i], '\n\n',
+      '导师: ', students$Supervisor[i], '\n\n',
       students$Intro_zh[i], '\n\n', sep = '')
 }
 ```

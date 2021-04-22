@@ -27,25 +27,28 @@ title = "李柏良"
 +++
 
 
-
 <!-- Research Team Begins -->
 
 
 ### 研究团队
 
-- 宁清钱: Qingqian.Ning@xjtlu.edu.cn
-- 卢卡斯: L.Meldau19@student.xjtlu.edu.cn
-- 孙博坤: Bokun.Sun19@student.xjtlu.edu.cn
 
-
+- [宁清钱](../../post/postgraduates/#Ning.Qingqian)
+- [卢卡斯](../../post/postgraduates/#Meldau.Lukas.Florian)
+- [孙博坤](../../post/postgraduates/#Sun.Bokun)
 <!-- Research Team Ends -->
+
+
+<!-- Alumni Begins -->
+
+
+<!-- Alumni Ends -->
 
 
 <!-- Teaching Begins -->
 
 
 <!-- Teaching Ends -->
-
 
 
 

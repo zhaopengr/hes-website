@@ -27,16 +27,24 @@ title = "PAN, Stephen"
 +++
 
 
-
 <!-- Research Team Begins -->
 
 
 ### Research Team
 
-- ETIENNE, Jaime: /
 
-
+- [ETIENNE, Jaime](../../post/postgraduates/#Etienne.Jaime)
 <!-- Research Team Ends -->
+
+
+<!-- Alumni Begins -->
+
+
+### Alumni
+
+
+- [ETIENNE, Jaime](../../post/alumni/#Etienne.Jaime)
+<!-- Alumni Ends -->
 
 
 <!-- Teaching Begins -->
@@ -50,10 +58,7 @@ title = "PAN, Stephen"
 
 
 - ENV201: <a href="http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV201">Research Design</a>
-
-
 <!-- Teaching Ends -->
-
 
 
 

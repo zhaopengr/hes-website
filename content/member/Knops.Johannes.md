@@ -27,24 +27,33 @@ title = "KNOPS, Johannes"
 +++
 
 
-
 <!-- Research Team Begins -->
 
 
 ### Research Team
 
-- DENTON, Alex: A.Denton19@student.xjtlu.edu.cn
-- LI, Dan: /
 
-
+- [DENTON, Alex](../../post/postgraduates/#Denton.Alex)
+- [LI, Dan](../../post/postgraduates/#Li.Dan)
 <!-- Research Team Ends -->
+
+
+<!-- Alumni Begins -->
+
+
+### Alumni
+
+
+- [DENTON, Alex](../../post/alumni/#Denton.Alex)
+
+- [LI, Dan](../../post/alumni/#Li.Dan)
+<!-- Alumni Ends -->
 
 
 <!-- Teaching Begins -->
 
 
 <!-- Teaching Ends -->
-
 
 
 
