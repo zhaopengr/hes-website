@@ -26,10 +26,17 @@ title = "ZHAO, Peng"
 
 +++
 
-<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
 
-------
 
+<!-- Research Team Begins -->
+
+
+
+
+<!-- Research Team Ends -->
+
+
+<!-- Teaching Begins -->
 
 
 ### Teaching
@@ -40,11 +47,18 @@ title = "ZHAO, Peng"
 - ENV203: <a href="http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV203">Statistics for Environmental Scientists</a>
 
 
-#### Supported Modules
+#### Involved Modules
 
 
 - ENV201: <a href="http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV201">Research Design</a>
 
+
+<!-- Teaching Ends -->
+
+
+
+
+<!-- XJTLU Profile Begins -->
 
 ### Profile
 
@@ -82,3 +96,7 @@ Dr. Peng Zhao holds a Ph.D. in Geoecology (University of Bayreuth), a M.Sc. in E
  - Telephone: +86 (0)512 
 
  - Address: <br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
+
+
+<!-- XJTLU Profile Ends -->
+

@@ -26,15 +26,29 @@ title = "KNOPS, Johannes"
 
 +++
 
-<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
 
-------
+
+<!-- Research Team Begins -->
+
 
 ### Research Team
 
 - DENTON, Alex: A.Denton19@student.xjtlu.edu.cn
 - LI, Dan: /
 
+
+<!-- Research Team Ends -->
+
+
+<!-- Teaching Begins -->
+
+
+<!-- Teaching Ends -->
+
+
+
+
+<!-- XJTLU Profile Begins -->
 
 ### Profile
 
@@ -56,3 +70,7 @@ Johannes (Jean) M H Knops is Professor and Head of the Department of Health and 
  - Telephone: +86 (0)15501685132
 
  - Address: ES341, South Campus<br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
+
+
+<!-- XJTLU Profile Ends -->
+

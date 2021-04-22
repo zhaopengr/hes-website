@@ -26,11 +26,25 @@ title = "YUAN, Linxi"
 
 +++
 
-<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
-
-------
 
 
+<!-- Research Team Begins -->
+
+
+
+
+<!-- Research Team Ends -->
+
+
+<!-- Teaching Begins -->
+
+
+<!-- Teaching Ends -->
+
+
+
+
+<!-- XJTLU Profile Begins -->
 
 ### Profile
 
@@ -92,3 +106,7 @@ Dr Linxi Yuan's research focused on Trace Element (eg. Selenium) Biofortificatio
  - Telephone: +86 (0)512 81889173
 
  - Address: ES332, No 111 Ren ai Road, SIP, Suzhou, Xi'an Jiaotong-Liverpool University<br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
+
+
+<!-- XJTLU Profile Ends -->
+

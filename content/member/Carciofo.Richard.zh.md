@@ -22,11 +22,25 @@ title = "理查德·卡奇欧佛"
 
 +++
 
-<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
-
-------
 
 
+<!-- Research Team Begins -->
+
+
+
+
+<!-- Research Team Ends -->
+
+
+<!-- Teaching Begins -->
+
+
+<!-- Teaching Ends -->
+
+
+
+
+<!-- XJTLU Profile Begins -->
 
 ### Profile
 
@@ -56,3 +70,7 @@ title = "理查德·卡奇欧佛"
  - 电话: +86 (0)512 81883287
 
  - 地址: Xi'an<br>Jiaotong-Liverpool University <br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
+
+
+<!-- XJTLU Profile Ends -->
+

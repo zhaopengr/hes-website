@@ -26,24 +26,38 @@ title = "PAN, Stephen"
 
 +++
 
-<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
 
-------
+
+<!-- Research Team Begins -->
+
 
 ### Research Team
 
 - ETIENNE, Jaime: /
 
 
+<!-- Research Team Ends -->
+
+
+<!-- Teaching Begins -->
+
+
 ### Teaching
 
 
 
-#### Supported Modules
+#### Involved Modules
 
 
 - ENV201: <a href="http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV201">Research Design</a>
 
+
+<!-- Teaching Ends -->
+
+
+
+
+<!-- XJTLU Profile Begins -->
 
 ### Profile
 
@@ -81,3 +95,7 @@ Stephen Pan is a social and behavioral epidemiologist. Dr. Pan's research focuse
  - Telephone: +86 (0)512 0512-8816-4629
 
  - Address: <br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
+
+
+<!-- XJTLU Profile Ends -->
+

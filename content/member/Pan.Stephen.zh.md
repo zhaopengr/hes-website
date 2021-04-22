@@ -26,13 +26,20 @@ title = "潘长浩"
 
 +++
 
-<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
 
-------
+
+<!-- Research Team Begins -->
+
 
 ### 研究团队
 
 - 杰米: /
+
+
+<!-- Research Team Ends -->
+
+
+<!-- Teaching Begins -->
 
 
 ### 教学
@@ -44,6 +51,13 @@ title = "潘长浩"
 
 - ENV201: <a href="http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV201">环境科研项目设计入门</a>
 
+
+<!-- Teaching Ends -->
+
+
+
+
+<!-- XJTLU Profile Begins -->
 
 ### Profile
 
@@ -81,3 +95,7 @@ Stephen Pan is a social and behavioral epidemiologist. Dr. Pan's research focuse
  - 电话: +86 (0)512 0512-8816-4629
 
  - 地址: <br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
+
+
+<!-- XJTLU Profile Ends -->
+

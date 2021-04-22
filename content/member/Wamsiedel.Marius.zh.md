@@ -26,11 +26,25 @@ title = "马里乌斯·华姆西德尔"
 
 +++
 
-<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
-
-------
 
 
+<!-- Research Team Begins -->
+
+
+
+
+<!-- Research Team Ends -->
+
+
+<!-- Teaching Begins -->
+
+
+<!-- Teaching Ends -->
+
+
+
+
+<!-- XJTLU Profile Begins -->
 
 ### Profile
 
@@ -72,3 +86,7 @@ Marius Wamsiedel is a sociologist by training and a lecturer in the Department o
  - 电话: +86 (0)512 81884764
 
  - 地址: ES 331, Department of Public Health<br>Xi'an Jiaotong-Liverpool University<br><br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
+
+
+<!-- XJTLU Profile Ends -->
+

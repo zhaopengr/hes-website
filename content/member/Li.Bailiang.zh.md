@@ -26,9 +26,10 @@ title = "李柏良"
 
 +++
 
-<!--The following "------" (six -) means that this file will be synced with the XJTLU personal page. If you remove them, this page won't be synced.-->
 
-------
+
+<!-- Research Team Begins -->
+
 
 ### 研究团队
 
@@ -36,6 +37,19 @@ title = "李柏良"
 - 卢卡斯: L.Meldau19@student.xjtlu.edu.cn
 - 孙博坤: Bokun.Sun19@student.xjtlu.edu.cn
 
+
+<!-- Research Team Ends -->
+
+
+<!-- Teaching Begins -->
+
+
+<!-- Teaching Ends -->
+
+
+
+
+<!-- XJTLU Profile Begins -->
 
 ### Profile
 
@@ -69,3 +83,7 @@ Dr Bailiang Li obtained a PhD in Geography at Texas A&amp;M University, USA. His
  - 电话: +86 (0)512 0512-81880472
 
  - 地址: Department of Environmental Science<br> Emerging and Interdiciplinary Science Building (ES) 408<br> Xi'an Jiaotong-Liverpool University<br> 111 Ren'ai Road<br> Suzhou Dushu Lake Science and Education Innovation District<br> Suzhou Industrial Park<br> Suzhou<br> P. R. China<br> 215123<br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
+
+
+<!-- XJTLU Profile Ends -->
+
