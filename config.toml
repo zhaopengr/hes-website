@@ -93,7 +93,7 @@ defaultContentLanguageInSubdir = true
   [params.projects]
     title = "Research"
     subtitle = ""
-    count = 7
+    count = 6
     str_all = "More Research"
   
   # Vacancies section
@@ -231,7 +231,7 @@ defaultContentLanguageInSubdir = true
   [languages.zh.params.projects]
     title = "科研"
     subtitle = ""
-    count = 7
+    count = 6
     str_all = "更多科研"
   
   # Vacancies section
