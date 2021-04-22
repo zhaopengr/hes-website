@@ -14,6 +14,10 @@
                 <div class="col-md-10">
                     {{ range .Pages.ByDate.Reverse }}
                         <h3><a href="{{ .Permalink }}" itemprop="url">{{ .Title }}</a></h3>
+						
+						<div class="pub-authors" itemprop="author">
+							{{ partial "participants" .Params.participants}}
+						</div>
                         {{ if .Params.short_description }}
                             {{ .Params.short_description | markdownify}}
                         {{ else }}
