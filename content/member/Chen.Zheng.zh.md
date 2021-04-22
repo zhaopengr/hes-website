@@ -33,7 +33,7 @@ title = "陈正"
 ### 研究团队
 
 
-- [张厦](../../post/postgraduates/#Zhang.Sha)
+- [张厦](../../zh/post/postgraduates/#Zhang.Sha)
 <!-- Research Team Ends -->
 
 
@@ -43,7 +43,7 @@ title = "陈正"
 ### 毕业生
 
 
-- [袁召锋](../../post/alumni/#Yuan.Zhaofeng)
+- [袁召锋](../../zh/post/alumni/#Yuan.Zhaofeng)
 <!-- Alumni Ends -->
 
 

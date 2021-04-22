@@ -34,8 +34,6 @@ title = "秦素洁"
 
 
 <!-- Alumni Begins -->
-
-
 <!-- Alumni Ends -->
 
 

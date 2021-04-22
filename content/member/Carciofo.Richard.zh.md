@@ -30,8 +30,6 @@ title = "理查德·卡奇欧佛"
 
 
 <!-- Alumni Begins -->
-
-
 <!-- Alumni Ends -->
 
 

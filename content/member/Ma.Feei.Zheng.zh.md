@@ -35,13 +35,11 @@ title = "马钲斐"
 ### 研究团队
 
 
-- [刘书畅](../../post/postgraduates/#Liu.Shuchang)
+- [刘书畅](../../zh/post/postgraduates/#Liu.Shuchang)
 <!-- Research Team Ends -->
 
 
 <!-- Alumni Begins -->
-
-
 <!-- Alumni Ends -->
 
 

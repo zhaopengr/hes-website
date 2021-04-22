@@ -33,13 +33,11 @@ title = "埃米利欧·努内茨"
 ### 研究团队
 
 
-- [曾煜](../../post/postgraduates/#Zeng.Yu)
+- [曾煜](../../zh/post/postgraduates/#Zeng.Yu)
 <!-- Research Team Ends -->
 
 
 <!-- Alumni Begins -->
-
-
 <!-- Alumni Ends -->
 
 

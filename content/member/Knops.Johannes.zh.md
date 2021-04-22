@@ -33,14 +33,12 @@ title = "约翰尼斯·诺普斯"
 ### 研究团队
 
 
-- [阿力克斯](../../post/postgraduates/#Denton.Alex)
-- [李丹](../../post/postgraduates/#Li.Dan)
+- [阿力克斯](../../zh/post/postgraduates/#Denton.Alex)
+- [李丹](../../zh/post/postgraduates/#Li.Dan)
 <!-- Research Team Ends -->
 
 
 <!-- Alumni Begins -->
-
-
 <!-- Alumni Ends -->
 
 
