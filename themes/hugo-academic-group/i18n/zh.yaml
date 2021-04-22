@@ -13,6 +13,9 @@
 - id: studentsTitle
   translation: "博士生"
 
+- id: undergraduatesTitle
+  translation: "本科生"
+
 - id: alumniTitle
   translation: "校友"
 
@@ -37,6 +40,9 @@
 - id: forumTitle
   translation: "论坛"
 
+- id: admissionsTitle
+  translation: "招生"
+  
 - id: rssTitle
   translation: "RSS"
 
@@ -102,4 +108,9 @@
 
 - id: biographyTitle
   translation: "简历"
- 
+
+- id: nextPage
+  translation: "下一篇"
+  
+- id: previousPage
+  translation: "上一篇"

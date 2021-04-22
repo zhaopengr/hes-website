@@ -23,7 +23,7 @@
         <div>
             {{ if gt $posts_len .Site.Params.posts.count }}
                 <p class="view-all">
-                    <a href="{{ .Site.BaseURL }}/post/{{if .Site.Params.uglyURLs}}index.html{{end}}">
+                    <a href="{{ .Site.BaseURL }}/{{ i18n "insertZh/" }}post/{{if .Site.Params.uglyURLs}}index.html{{end}}">
                         {{ with .Site.Params.posts.str_all }}{{ . | markdownify }}{{ end }}
                         <i class="fa fa-angle-double-right"></i>
                     </a>

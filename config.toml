@@ -51,17 +51,17 @@ defaultContentLanguageInSubdir = true
 
   [[params.slogan_columns]]
     title = "Our"
-    text = "- Academic Staff [link](/#members)  \n- Support Team [link](/post/support_team)  \n- PhD Students [link](/post/students/)  \n- Alumni [link](/post/alumni)"
+    text = "- Undergraduates [link](/post/undergraduates/)  \n- Postgraduates [link](/post/postgraduates/)  \n- Academic Staff [link](/member)  \n- Support Team [link](/post/support_team)  \n- Alumni [link](/post/alumni)"
     weight = 1
 
   [[params.slogan_columns]]
     title = "Work"
-    text = "- Research [link](/#projects)  \n- Publications [link](/#publications) \n- Projects [link](/post/projects)  \n- Modules [link](/post/module)"
+    text = "- Research [link](/project)  \n- Publications [link](/publication) \n- Projects [link](/post/projects)  \n- Teaching [link](/post/module)"
     weight = 2
     
   [[params.slogan_columns]]
     title = "Matters"
-    text = "- News [link](/#posts)  \n- Events [link](/post/events)  \n- Lab [link](https://heslab.pzhao.org/)  \n- Admissions [link](/post/admissions)  \n- About [link](/about)  \n- Contact [link](/#contact)"
+    text = "- News [link](/post)  \n- Events [link](/post/events)  \n- Lab [link](https://heslab.pzhao.org/)  \n- Admissions [link](/post/admissions)  \n- About [link](/about)  \n- Contact [link](/#contact)"
     weight = 3
 
   # Selected Publications section.
@@ -130,7 +130,7 @@ defaultContentLanguageInSubdir = true
       weight = 30
 
   [[menu.main]]
-      name = "Modules"
+      name = "Teaching"
       url = "/post/module"
       weight = 40
       
@@ -188,17 +188,17 @@ defaultContentLanguageInSubdir = true
 
   [[languages.zh.params.slogan_columns]]
     title = "我们的"
-    text = "- 教师 [link](/zh/#members)  \n- 支持团队 [link](/zh/post/support_team)  \n- 博士生 [link](/zh/post/students/)  \n- 校友 [link](/zh/post/alumni)"
+    text = "- 本科生 [link](/zh/post/undergraduates/)  \n- 博士生 [link](/zh/post/postgraduates/)  \n- 教师 [link](/zh/member)  \n- 支持团队 [link](/zh/post/support_team)  \n- 校友 [link](/zh/post/alumni)"
     weight = 1
 
   [[languages.zh.params.slogan_columns]]
     title = "工作"
-    text = "- 科研 [link](/zh/#projects)  \n- 著作 [link](/zh/publication) \n- 项目 [link](/zh/post/projects)  \n- 教学 [link](/zh/post/module)"
+    text = "- 科研 [link](/zh/project)  \n- 著作 [link](/zh/publication) \n- 项目 [link](/zh/post/projects)  \n- 教学 [link](/zh/post/module)"
     weight = 2
     
   [[languages.zh.params.slogan_columns]]
     title = "和其他"
-    text = "- 新闻 [link](/zh/#posts)  \n- 活动 [link](/zh/post/events)  \n- 实验室 [link](https://heslab.pzhao.org/)  \n- 关于 [link](/zh/about)  \n- 招生 [link](/zh/post/admissions)  \n- 联系我们 [link](/zh/#contact)"
+    text = "- 新闻 [link](/zh/post)  \n- 活动 [link](/zh/post/events)  \n- 实验室 [link](https://heslab.pzhao.org/)  \n- 关于 [link](/zh/about)  \n- 招生 [link](/zh/post/admissions)  \n- 联系我们 [link](/zh/#contact)"
     weight = 3
 
   # Selected Publications section.

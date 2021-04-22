@@ -11,7 +11,10 @@
   translation: "Support"
 
 - id: studentsTitle
-  translation: "PhD Students"
+  translation: "Postgraduates"
+
+- id: undergraduatesTitle
+  translation: "Undergraduates"
 
 - id: alumniTitle
   translation: "Alumni"
@@ -37,6 +40,9 @@
 - id: forumTitle
   translation: "Forum"
 
+- id: admissionsTitle
+  translation: "Admissions"
+  
 - id: rssTitle
   translation: "RSS"
 
@@ -53,7 +59,7 @@
   translation: "More info"
  
 - id: insertZh/
-  translation: ""
+  translation: "/"
  
 - id: insertZhRev/
   translation: "zh/"
@@ -103,3 +109,8 @@
 - id: biographyTitle
   translation: "Biography"
  
+- id: nextPage
+  translation: "Next"
+  
+- id: previousPage
+  translation: "Previous"

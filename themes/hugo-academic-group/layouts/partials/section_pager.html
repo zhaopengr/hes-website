@@ -3,7 +3,10 @@
         {{if .PrevInSection}}
         <li class="previous">
             <a href="{{.PrevInSection.Permalink}}">
+<!---
                 <span aria-hidden="true" class="darknav">&larr;&nbsp;Previous {{.Section}}:</span>
+--->
+                <span aria-hidden="true" class="darknav">&larr;&nbsp;{{ i18n "previousPage" }}:</span>
                 {{.PrevInSection.Title}}
             </a>
         </li>
@@ -12,7 +15,10 @@
         {{if .NextInSection}}
         <li class="next">
             <a href="{{.NextInSection.Permalink}}">
+<!---
                 <span class="darknav">&nbsp;Next {{.Section}}:</span>
+--->
+                <span class="darknav">&nbsp;{{ i18n "nextPage" }}:</span>
                 {{.NextInSection.Title}}
                 <span aria-hidden="true" class="darknav">&rarr;</span>
             </a>
