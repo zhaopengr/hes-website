@@ -33,8 +33,8 @@ title = "邹怡"
 ### 研究团队
 
 
-- [龚善星](../../post/postgraduates/#Gong.Shanxing)
-- [石晓宇](../../post/postgraduates/#Shi.Xiaoyu)
+- [龚善星](../../zh/post/postgraduates/#Gong.Shanxing)
+- [石晓宇](../../zh/post/postgraduates/#Shi.Xiaoyu)
 <!-- Research Team Ends -->
 
 
@@ -44,7 +44,7 @@ title = "邹怡"
 ### 毕业生
 
 
-- [梅德](../../post/alumni/#Faghihinia.Maede)
+- [梅德](../../zh/post/alumni/#Faghihinia.Maede)
 <!-- Alumni Ends -->
 
 
