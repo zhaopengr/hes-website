@@ -3,7 +3,7 @@
 bio = ""
 date = "2021-04-16"
 id = "Zou.Yi"
-interests = ["N.A."]
+interests = ["no"]
 name = "ZOU, Yi"
 portrait = "avatar/Zou.Yi.jpg"
 short_bio = "STAFF_SHORT_INTRO"
