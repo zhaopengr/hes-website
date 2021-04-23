@@ -5,6 +5,7 @@ authors:
   - id: "Zhao.Peng"
 ---
 
+<a name=TOP"></a>'
 
 ```{r, include=FALSE}
 Sys.setlocale("LC_CTYPE", "Chinese")
@@ -29,6 +30,6 @@ for (i in 1:nrow(students)){
       '<img src="../../../img/students/', students$ID[i], '.jpg" style="display: block; margin: auto;">', '\n\n',
       '联系方式: ', students$Contact[i], '\n\n',
       '导师: ', students$Supervisor[i], '\n\n',
-      students$Intro_zh[i], '\n\n', sep = '')
+      students$Intro_zh[i], '\n\n[*回到顶部*](#TOP)\n\n', sep = '')
 }
 ```

@@ -5,6 +5,7 @@ authors:
   - id: "Zhao.Peng"
 ---
 
+<a name=TOP"></a>'
 
 ```{r, echo=FALSE}
 source("../../R/functions.R")
@@ -25,6 +26,6 @@ for (i in 1:nrow(students)){
       '<img src="../../img/students/', students$ID[i], '.jpg" style="display: block; margin: auto;">', '\n\n',
       'Contact: ', students$Contact[i], '\n\n',
       'Supervised by ', students$Supervisor[i], '.\n\n',
-      students$Intro[i], '\n\n', sep = '')
+      students$Intro[i], '\n\n[*BACK TO THE TOP*](#TOP)\n\n', sep = '')
 }
 ```
