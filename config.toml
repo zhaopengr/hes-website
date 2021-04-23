@@ -56,12 +56,12 @@ defaultContentLanguageInSubdir = true
 
   [[params.slogan_columns]]
     title = "Work"
-    text = "- Research [link](/project)  \n- Publications [link](/publication) \n- Projects [link](/post/projects)  \n- Teaching [link](/post/module)"
+    text = "- Research [link](/project)  \n- Publications [link](/publication)  \n- Teaching [link](/post/module)  \n- Lab [link](https://heslab.pzhao.org/)"
     weight = 2
     
   [[params.slogan_columns]]
     title = "Matters"
-    text = "- News [link](/post)  \n- Events [link](/post/events)  \n- Lab [link](https://heslab.pzhao.org/)  \n- Admissions [link](/post/admissions)  \n- About [link](/about)  \n- Contact [link](/#contact)"
+    text = "- News [link](/post)  \n- Events [link](/post/events)  \n- Admissions [link](/post/admissions)  \n- About [link](/about)  \n- Contact [link](/#contact)"
     weight = 3
 
   # Selected Publications section.
@@ -193,12 +193,12 @@ defaultContentLanguageInSubdir = true
 
   [[languages.zh.params.slogan_columns]]
     title = "工作"
-    text = "- 科研 [link](/zh/project)  \n- 著作 [link](/zh/publication) \n- 项目 [link](/zh/post/projects)  \n- 教学 [link](/zh/post/module)"
+    text = "- 科研 [link](/zh/project)  \n- 著作 [link](/zh/publication) \n- 教学 [link](/zh/post/module)  \n- 实验室 [link](https://heslab.pzhao.org/)"
     weight = 2
     
   [[languages.zh.params.slogan_columns]]
     title = "和其他"
-    text = "- 新闻 [link](/zh/post)  \n- 活动 [link](/zh/post/events)  \n- 实验室 [link](https://heslab.pzhao.org/)  \n- 关于 [link](/zh/about)  \n- 招生 [link](/zh/post/admissions)  \n- 联系我们 [link](/zh/#contact)"
+    text = "- 新闻 [link](/zh/post)  \n- 活动 [link](/zh/post/events)  \n- 关于 [link](/zh/about)  \n- 招生 [link](/zh/post/admissions)  \n- 联系我们 [link](/zh/#contact)"
     weight = 3
 
   # Selected Publications section.
