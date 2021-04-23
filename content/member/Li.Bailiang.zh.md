@@ -33,9 +33,9 @@ title = "李柏良"
 ### 研究团队
 
 
-- [宁清钱](../../zh/post/postgraduates/#Ning.Qingqian)
-- [卢卡斯](../../zh/post/postgraduates/#Meldau.Lukas.Florian)
-- [孙博坤](../../zh/post/postgraduates/#Sun.Bokun)
+- [宁清钱](../../post/postgraduates/#Ning.Qingqian)
+- [卢卡斯](../../post/postgraduates/#Meldau.Lukas.Florian)
+- [孙博坤](../../post/postgraduates/#Sun.Bokun)
 <!-- Research Team Ends -->
 
 

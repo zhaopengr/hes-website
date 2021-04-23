@@ -33,7 +33,7 @@ title = "潘长浩"
 ### 研究团队
 
 
-- [杰米](../../zh/post/postgraduates/#Etienne.Jaime)
+- [杰米](../../post/postgraduates/#Etienne.Jaime)
 <!-- Research Team Ends -->
 
 

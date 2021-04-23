@@ -33,18 +33,32 @@ title = "邹怡"
 ### 研究团队
 
 
-- [龚善星](../../zh/post/postgraduates/#Gong.Shanxing)
-- [石晓宇](../../zh/post/postgraduates/#Shi.Xiaoyu)
+- [龚善星](../../post/postgraduates/#Gong.Shanxing)
+- [石晓宇](../../post/postgraduates/#Shi.Xiaoyu)
 <!-- Research Team Ends -->
 
 
 <!-- Alumni Begins -->
+
+
+### 毕业生
+
+
+- [梅德](../../post/alumni/#Faghihinia.Maede)
 <!-- Alumni Ends -->
 
 
 <!-- Teaching Begins -->
 
 
+### 教学
+
+
+
+#### 主讲课程
+
+
+- ENV306: <a href="http://modules.xjtlu.edu.cn/MOD_CAT.aspx?mod_code=ENV306">环境变迁与生态学</a>
 <!-- Teaching Ends -->
 
 

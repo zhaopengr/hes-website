@@ -2,10 +2,10 @@
 
 bio = ""
 date = "2021-04-16"
-id = "Nunez.Pagani.Emilio"
+id = "Pagani-Nunez.Emilio"
 interests = ["Behavioral Ecology", "Trophic interactions", "Urbanization", "Environmental pollution", "Community ecology", "Ornithology"]
-name = "埃米利欧·努内茨"
-portrait = "avatar/Nunez.Pagani.Emilio.jpg"
+name = "埃米利欧·帕加尼努内茨"
+portrait = "avatar/Pagani-Nunez.Emilio.jpg"
 short_bio = "STAFF_SHORT_INTRO"
 short_name = ""
 title = "埃米利欧·努内茨"
@@ -33,7 +33,7 @@ title = "埃米利欧·努内茨"
 ### 研究团队
 
 
-- [曾煜](../../zh/post/postgraduates/#Zeng.Yu)
+- [曾煜](../../post/postgraduates/#Zeng.Yu)
 <!-- Research Team Ends -->
 
 

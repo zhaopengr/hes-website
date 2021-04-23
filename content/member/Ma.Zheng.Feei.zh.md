@@ -2,13 +2,13 @@
 
 bio = ""
 date = "2021-04-16"
-id = "Ma.Feei.Zheng"
+id = "Ma.Zheng.Feei"
 interests = ["Biostatistics & Epidemiology", "Nutrition through the Human Life Cycle", "Pharmaceutical", "Environmental & Human Health", "Medical Science", "Food Science"]
-name = "MA, Zheng Feei"
-portrait = "avatar/Ma.Feei.Zheng.jpg"
+name = "马钲斐"
+portrait = "avatar/Ma.Zheng.Feei.jpg"
 short_bio = "STAFF_SHORT_INTRO"
 short_name = ""
-title = "MA, Zheng Feei"
+title = "马钲斐"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
@@ -32,10 +32,10 @@ title = "MA, Zheng Feei"
 <!-- Research Team Begins -->
 
 
-### Research Team
+### 研究团队
 
 
-- [LIU, Shuchang](../../post/postgraduates/#Liu.Shuchang)
+- [刘书畅](../../post/postgraduates/#Liu.Shuchang)
 <!-- Research Team Ends -->
 
 
@@ -93,13 +93,13 @@ Nutrient requirements during different stages of the human life cycle (including
 <ul> <li> 2016 University of Otago Postgraduate Publishing Bursary for PhD, University of Otago, New Zealand </li><li> 2016 MRSA Consultants Sponsorship for 8th Asia Pacific Society of Infection Control (APSIC) Training Course in Infection Control, MRSA Consultants, Singapore </li><li> 2015 Maurice and Phyllis Paykel Trust Travel Grant, Maurice and Phyllis Paykel Trust, New Zealand </li><li> 2015 The UK Nutrition Society Travel Grant, UK Nutrition Society, UK </li><li> 2014 University of Otago Postgraduate Travel Grant, University of Otago, New Zealand </li> </ul>
 
 
-### Contact:
+### 联系方式:
 
- - Email: Zhengfeei.Ma@xjtlu.edu.cn
+ - 电邮: Zhengfeei.Ma@xjtlu.edu.cn
 
- - Telephone: +86 (0)512 81884938
+ - 电话: +86 (0)512 81884938
 
- - Address: <br>Room ES339 <br> Department of Public Health<br> Emerging &amp; Interdisciplinary Sciences Building <br><br><br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
+ - 地址: <br>Room ES339 <br> Department of Public Health<br> Emerging &amp; Interdisciplinary Sciences Building <br><br><br> Suzhou Dushu Lake Science and Education Innovation District <br> Suzhou Industrial Park <br> Suzhou <br> P.R.China<br> 215123<br><br>
 
 
 <!-- XJTLU Profile Ends -->

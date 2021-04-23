@@ -2,13 +2,13 @@
 
 bio = ""
 date = "2021-04-16"
-id = "Nunez.Pagani.Emilio"
+id = "Pagani-Nunez.Emilio"
 interests = ["Behavioral Ecology", "Trophic interactions", "Urbanization", "Environmental pollution", "Community ecology", "Ornithology"]
-name = "NUNEZ, Emilio Pagani"
-portrait = "avatar/Nunez.Pagani.Emilio.jpg"
+name = "PAGANI-NUNEZ, Emilio"
+portrait = "avatar/Pagani-Nunez.Emilio.jpg"
 short_bio = "STAFF_SHORT_INTRO"
 short_name = ""
-title = "NUNEZ, Emilio Pagani"
+title = "PAGANI-NUNEZ, Emilio"
 [[social]]
     icon = "envelope"
     icon_pack = "fa"

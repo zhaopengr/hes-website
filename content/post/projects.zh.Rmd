@@ -11,7 +11,7 @@ Sys.setlocale("LC_CTYPE", "Chinese")
 
 ```{r, echo=FALSE}
 source("../../R/functions.R")
-project <- read_mdtable(mdfile = "../../static/database/project.md", skip = 0)
+project <- read_mdtable(mdfile = "../../R/backup/project.md", skip = 0)
 project$PI <- convert_id2link(staff_id = project$PI, language = "zh")
 project <- project[, c( "Year", "Project_zh", "PI", "Funding_zh")]
 DT::datatable(project, escape = FALSE, 
